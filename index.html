@@ -72,10 +72,24 @@
         // Combine all games into a single list for 'ANY'
         const allGames = [...games.MMO, ...games.ARPG, ...games.FPS, ...games.RTS];
 
+        // Function to check if the current date is 5 January 2025
+        function isEdenDay() {
+            const today = new Date();
+            return (
+                today.getFullYear() === 2025 &&
+                today.getMonth() === 0 && // January is 0
+                today.getDate() === 5
+            );
+        }
+
         // Function to pick a random game
         function pickGame(type) {
             let choice;
-            if (type === 'ANY') {
+
+            // If it's 5 January 2025, always return "Eden"
+            if (isEdenDay()) {
+                choice = "Eden";
+            } else if (type === 'ANY') {
                 // Pick from all games
                 choice = allGames[Math.floor(Math.random() * allGames.length)];
             } else {
