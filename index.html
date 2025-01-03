@@ -26,6 +26,7 @@
             color: white;
             border: none;
             border-radius: 5px;
+            margin: 10px;
         }
         .button:hover {
             background-color: #0056b3;
@@ -35,36 +36,46 @@
 <body>
 
     <h1>Random Game Picker</h1>
-    <p>Click the button to pick a game based on the current date:</p>
-    <button class="button" onclick="pickGame()">Pick a Game</button>
+    <p>Click a button to pick a game:</p>
+    
+    <button class="button" onclick="pickGame('MMO')">Random MMO</button>
+    <button class="button" onclick="pickGame('ARPG')">Random ARPG</button>
+    <button class="button" onclick="pickGame('FPS')">Random FPS</button>
+    <button class="button" onclick="pickGame('RTS')">Random RTS</button>
+    <button class="button" onclick="pickGame('ANY')">Random Any</button>
     
     <div class="result" id="gameResult"></div>
 
     <script>
-        function pickGame() {
-            // Define the list of games
-            const games = [
-                "Diablo 2", "Diablo 4", "Counter Strike", "Path of Exile", 
-                "Return of Reckoning", "Live DAoC", "Attempt Camelot Unchained", "Go Outside"
-            ];
+        // Define game categories
+        const games = {
+            MMO: [
+                "World of Warcraft", "Final Fantasy XIV", "Guild Wars 2", 
+                "Return of Reckoning", "Live DAoC", "Attempt Camelot Unchain"
+            ],
+            ARPG: [
+                "Diablo 2", "Diablo 4", "Path of Exile", "Torchlight II", "Grim Dawn"
+            ],
+            FPS: [
+                "Counter Strike", "Valorant", "Overwatch 2", "Call of Duty: Warzone", "Halo Infinite"
+            ],
+            RTS: [
+                "Starcraft II", "Age of Empires IV", "Warcraft III", "Command & Conquer: Generals", "Total War: Warhammer III"
+            ]
+        };
 
-            // Get today's date
-            const today = new Date();
+        // Combine all games into a single list for 'ANY'
+        const allGames = [...games.MMO, ...games.ARPG, ...games.FPS, ...games.RTS];
 
-            // Define the date range
-            const startDate = new Date('2025-01-01');
-            const endDate = new Date('2025-01-04');
-
+        // Function to pick a random game
+        function pickGame(type) {
             let choice;
-
-            // Check if today's date is within the range or after
-            if (today >= startDate && today <= endDate) {
-                // Randomly choose from the list
-                const randomIndex = Math.floor(Math.random() * games.length);
-                choice = games[randomIndex];
+            if (type === 'ANY') {
+                // Pick from all games
+                choice = allGames[Math.floor(Math.random() * allGames.length)];
             } else {
-                // Choose "Eden" if the date is >= 05 January 2025
-                choice = "Eden";
+                // Pick from the specified category
+                choice = games[type][Math.floor(Math.random() * games[type].length)];
             }
 
             // Display the result
