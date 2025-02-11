@@ -3,61 +3,61 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Data Parser and Visualizer</title>
+    <title>Trends Graph</title>
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-    <style>
-        body { font-family: Arial, sans-serif; text-align: center; }
-        canvas { max-width: 600px; margin: 20px auto; }
-    </style>
 </head>
 <body>
-    <h2>Data Visualization</h2>
-    <input type="file" id="fileInput" accept=".json,.csv">
-    <canvas id="myChart"></canvas>
-    
+    <canvas id="trendChart"></canvas>
     <script>
-        document.getElementById('fileInput').addEventListener('change', function(event) {
-            const file = event.target.files[0];
-            if (!file) return;
-            
-            const reader = new FileReader();
-            reader.onload = function(e) {
-                try {
-                    const data = JSON.parse(e.target.result);
-                    processData(data);
-                } catch (error) {
-                    console.error("Invalid JSON format", error);
-                }
-            };
-            reader.readAsText(file);
-        });
-        
-        function processData(data) {
-            const labels = data.map((item, index) => `Entry ${index + 1}`);
-            const values = data.map(item => item.value); // Adjust as needed
-            
-            renderChart(labels, values);
-        }
-        
-        function renderChart(labels, values) {
-            const ctx = document.getElementById('myChart').getContext('2d');
-            new Chart(ctx, {
-                type: 'line',
-                data: {
-                    labels: labels,
-                    datasets: [{
-                        label: 'Dataset',
-                        data: values,
+        const ctx = document.getElementById('trendChart').getContext('2d');
+        const trendChart = new Chart(ctx, {
+            type: 'line',
+            data: {
+                labels: ['2024-02-01', '2024-02-02', '2024-02-03', '2024-02-04'],
+                datasets: [
+                    {
+                        label: 'Class A',
+                        data: [10, 15, 12, 17],
+                        borderColor: 'red',
+                        fill: false
+                    },
+                    {
+                        label: 'Class B',
+                        data: [8, 9, 7, 11],
                         borderColor: 'blue',
-                        borderWidth: 2
-                    }]
+                        fill: false
+                    },
+                    {
+                        label: 'Class C',
+                        data: [14, 18, 16, 20],
+                        borderColor: 'green',
+                        fill: false
+                    }
+                ]
+            },
+            options: {
+                responsive: true,
+                plugins: {
+                    legend: {
+                        display: true
+                    }
                 },
-                options: {
-                    responsive: true,
-                    maintainAspectRatio: false
+                scales: {
+                    x: {
+                        title: {
+                            display: true,
+                            text: 'Date'
+                        }
+                    },
+                    y: {
+                        title: {
+                            display: true,
+                            text: 'Count'
+                        }
+                    }
                 }
-            });
-        }
+            }
+        });
     </script>
 </body>
 </html>
