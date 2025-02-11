@@ -50,22 +50,31 @@
 
         // Double-click event handler
         ctx.canvas.addEventListener("dblclick", function(e) {
-            // Get the clicked point (if any)
+            // Get the clicked label
             const activePoints = trendChart.getElementsAtEventForMode(e, "nearest", {intersect: true}, false);
             
-            if (activePoints.length > 0) {
-                const index = activePoints[0].datasetIndex;
-
-                // Hide all datasets
-                trendChart.data.datasets.forEach((dataset, i) => {
-                    const meta = trendChart.getDatasetMeta(i);
-                    meta.hidden = true;
+            if (activePoints.length === 0) {
+                // Double-clicked on the legend
+                const legendItem = trendChart.legend.legendItems.find(item => {
+                    const xPos = e.offsetX;
+                    const yPos = e.offsetY;
+                    return xPos >= item.x && xPos <= item.x + item.width && yPos >= item.y && yPos <= item.y + item.height;
                 });
 
-                // Show only the selected dataset
-                const selectedMeta = trendChart.getDatasetMeta(index);
-                selectedMeta.hidden = false;
-                trendChart.update();
+                if (legendItem) {
+                    const index = legendItem.datasetIndex;
+
+                    // Hide all datasets
+                    trendChart.data.datasets.forEach((dataset, i) => {
+                        const meta = trendChart.getDatasetMeta(i);
+                        meta.hidden = true;
+                    });
+
+                    // Show only the selected dataset
+                    const selectedMeta = trendChart.getDatasetMeta(index);
+                    selectedMeta.hidden = false;
+                    trendChart.update();
+                }
             }
         });
     </script>
