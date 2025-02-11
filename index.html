@@ -3,24 +3,59 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Size Selection</title>
-</head>
+    <title>Background Video</title>
+    <style>
+        /* Style to make the video cover the entire page */
+        body, html {
+            margin: 0;
+            padding: 0;
+            height: 100%;
+            overflow: hidden;
+        }
+        .video-background {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            object-fit: cover; /* Ensures the video covers the screen without distorting */
+            z-index: -1; /* Sends the video behind other content */
+        }
+        .content {
+            position: relative;
+            z-index: 1;
+            color: white;
+            text-align: center;
+            font-size: 2em;
+            padding-top: 20%;
+        }
+    </style>
+
 <body>
-    <h1>Select Group Size</h1>
-    <div>
-        <!-- Button for size 1 -->
-        <button onclick="redirectToSize(1)">Size 1</button>
-
-        <!-- Button for size 2 -->
-        <button onclick="redirectToSize(2)">Size 2</button>
-
-        <!-- Button for size 5 -->
-        <button onclick="redirectToSize(5)">Size 5</button>
-
-        <!-- Button for size 8 -->
-        <button onclick="redirectToSize(8)">Size 8</button>
+    
+    <!-- Video as background -->
+    <video autoplay muted loop class="video-background">
+        <source src="splash.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+    <!-- Content -->
+    <div class="content">
+        <h1>Select Group Size</h1>
+        <h2>For Fight Trends - By Class</h2>
+        <div>
+            <!-- Button for size 1 -->
+            <button onclick="redirectToSize(1)">Size 1</button>
+    
+            <!-- Button for size 2 -->
+            <button onclick="redirectToSize(2)">Size 2</button>
+    
+            <!-- Button for size 5 -->
+            <button onclick="redirectToSize(5)">Size 5</button>
+    
+            <!-- Button for size 8 -->
+            <button onclick="redirectToSize(8)">Size 8</button>
+        </div>
     </div>
-
     <script>
         // Function to redirect to the appropriate size.html file
         function redirectToSize(size) {
