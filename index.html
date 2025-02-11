@@ -3,104 +3,61 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Random Game Picker</title>
+    <title>Data Parser and Visualizer</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 50px;
-            text-align: center;
-        }
-        .result {
-            font-size: 1.5em;
-            margin-top: 20px;
-            padding: 10px;
-            background-color: #f0f0f0;
-            border: 1px solid #ddd;
-            display: inline-block;
-        }
-        .button-container {
-            margin-bottom: 20px;
-        }
-        .button {
-            padding: 10px 20px;
-            font-size: 1.2em;
-            cursor: pointer;
-            background-color: #007BFF;
-            color: white;
-            border: none;
-            border-radius: 5px;
-            margin: 10px;
-        }
-        .button:hover {
-            background-color: #0056b3;
-        }
+        body { font-family: Arial, sans-serif; text-align: center; }
+        canvas { max-width: 600px; margin: 20px auto; }
     </style>
 </head>
 <body>
-
-    <h1>Random Game Picker</h1>
-    <p>Click a button to pick a game:</p>
+    <h2>Data Visualization</h2>
+    <input type="file" id="fileInput" accept=".json,.csv">
+    <canvas id="myChart"></canvas>
     
-    <div class="button-container">
-        <button class="button" onclick="pickGame('MMO')">Random MMO</button>
-        <button class="button" onclick="pickGame('ARPG')">Random ARPG</button>
-        <button class="button" onclick="pickGame('FPS')">Random FPS</button>
-        <button class="button" onclick="pickGame('RTS')">Random RTS</button>
-        <button class="button" onclick="pickGame('ANY')">Random Any</button>
-    </div>
-    
-    <div class="result" id="gameResult"></div>
-
     <script>
-        // Define game categories
-        const games = {
-            MMO: [
-                "World of Warcraft", "Final Fantasy XIV", "Guild Wars 2", 
-                "Return of Reckoning", "Live DAoC", "Attempt Camelot Unchain"
-            ],
-            ARPG: [
-                "Diablo 2", "Diablo 4", "Path of Exile", "Torchlight II", "Grim Dawn"
-            ],
-            FPS: [
-                "Counter Strike", "Valorant", "Overwatch 2", "Call of Duty: Warzone", "Halo Infinite"
-            ],
-            RTS: [
-                "Starcraft II", "Age of Empires IV", "Warcraft III", "Command & Conquer: Generals", "Total War: Warhammer III"
-            ]
-        };
-
-        // Combine all games into a single list for 'ANY'
-        const allGames = [...games.MMO, ...games.ARPG, ...games.FPS, ...games.RTS];
-
-        // Function to check if the current date is 5 January 2025
-        function isEdenDay() {
-            const today = new Date();
-            return (
-                today.getFullYear() === 2025 &&
-                today.getMonth() === 0 && // January is 0
-                today.getDate() === 5
-            );
+        document.getElementById('fileInput').addEventListener('change', function(event) {
+            const file = event.target.files[0];
+            if (!file) return;
+            
+            const reader = new FileReader();
+            reader.onload = function(e) {
+                try {
+                    const data = JSON.parse(e.target.result);
+                    processData(data);
+                } catch (error) {
+                    console.error("Invalid JSON format", error);
+                }
+            };
+            reader.readAsText(file);
+        });
+        
+        function processData(data) {
+            const labels = data.map((item, index) => `Entry ${index + 1}`);
+            const values = data.map(item => item.value); // Adjust as needed
+            
+            renderChart(labels, values);
         }
-
-        // Function to pick a random game
-        function pickGame(type) {
-            let choice;
-
-            // If it's 5 January 2025, always return "Eden"
-            if (isEdenDay()) {
-                choice = "Eden";
-            } else if (type === 'ANY') {
-                // Pick from all games
-                choice = allGames[Math.floor(Math.random() * allGames.length)];
-            } else {
-                // Pick from the specified category
-                choice = games[type][Math.floor(Math.random() * games[type].length)];
-            }
-
-            // Display the result
-            document.getElementById('gameResult').innerText = `Today's choice: ${choice}`;
+        
+        function renderChart(labels, values) {
+            const ctx = document.getElementById('myChart').getContext('2d');
+            new Chart(ctx, {
+                type: 'line',
+                data: {
+                    labels: labels,
+                    datasets: [{
+                        label: 'Dataset',
+                        data: values,
+                        borderColor: 'blue',
+                        borderWidth: 2
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false
+                }
+            });
         }
     </script>
-
 </body>
 </html>
