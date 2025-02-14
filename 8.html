@@ -49,7 +49,7 @@
         var chart = echarts.init(document.getElementById('chart'));
 
         // Sample data
-        var classes = ['Druid', 'Hunter', 'Berserker', 'Necromancer', 'Cabalist', 'Warrior', 'Skald', 'Thane', 'Wizard', 'Minstrel', 'Shadowblade', 'Healer', 'Eldritch', 'Bainshee', 'Warden', 'Enchanter', 'Armsman', 'Mercenary', 'Occultist', 'Warlock', 'Theurgist', 'Reaver', 'Hero', 'Infiltrator', 'Ranger', 'Valewalker', 'Champion', 'Friar', 'Vampiir', 'Spiritmaster', 'Blademaster', 'Animist', 'Shaman', 'Valkyrie', 'Bonedancer', 'Mentalist', 'Bard', 'Heretic', 'Scout', 'Sorcerer', 'Savage', 'Runemaster', 'Cleric', 'Nightshade', 'Paladin'];
+        var classes = ['Shaman', 'Hero', 'Friar', 'Enchanter', 'Shadowblade', 'Valkyrie', 'Armsman', 'Skald', 'Reaver', 'Blademaster', 'Bonedancer', 'Necromancer', 'Infiltrator', 'Hunter', 'Bard', 'Occultist', 'Savage', 'Eldritch', 'Vampiir', 'Warden', 'Cabalist', 'Theurgist', 'Bainshee', 'Warrior', 'Sorcerer', 'Heretic', 'Paladin', 'Runemaster', 'Champion', 'Animist', 'Warlock', 'Mentalist', 'Spiritmaster', 'Mercenary', 'Berserker', 'Wizard', 'Valewalker', 'Nightshade', 'Druid', 'Cleric', 'Thane', 'Minstrel', 'Scout', 'Ranger', 'Healer'];
         var rawData = [];
         var rawDataTimes = rawData.map(d => new Date(d.time).getTime());  // Convert to timestamp (milliseconds)
         var originalMinTime = new Date(Math.min(...rawDataTimes));  // Get the minimum timestamp
