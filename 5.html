@@ -56,7 +56,7 @@
         var chart = echarts.init(document.getElementById('chart'));
 
         // Sample data
-        var classes = ['Wizard', 'Thane', 'Heretic', 'Warlock', 'Warrior', 'Mercenary', 'Friar', 'Skald', 'Healer'];
+        var classes = ['Heretic', 'Wizard', 'Skald', 'Warlock', 'Healer', 'Thane', 'Warrior', 'Friar', 'Mercenary'];
         var rawData = {'2025-03-29': {'Heretic': {'wins': 1, 'losses': 0, 'total': 1, 'damage done': 1067, 'healing done': 293}, 'Mercenary': {'wins': 2, 'losses': 0, 'total': 2, 'damage done': 1807, 'healing done': 0}, 'Friar': {'wins': 1, 'losses': 0, 'total': 1, 'damage done': 122, 'healing done': 499}, 'Wizard': {'wins': 1, 'losses': 0, 'total': 1, 'damage done': 1432, 'healing done': 0}, 'Warrior': {'wins': 0, 'losses': 1, 'total': 1, 'damage done': 132, 'healing done': 0}, 'Skald': {'wins': 0, 'losses': 1, 'total': 1, 'damage done': 57, 'healing done': 0}, 'Thane': {'wins': 0, 'losses': 1, 'total': 1, 'damage done': 216, 'healing done': 0}, 'Healer': {'wins': 0, 'losses': 1, 'total': 1, 'damage done': 0, 'healing done': 782}, 'Warlock': {'wins': 0, 'losses': 1, 'total': 1, 'damage done': 591, 'healing done': 0}}};
                 var rawDataTimes = Object.keys(rawData).map(date => new Date(date).getTime());  // Convert date string to timestamp (milliseconds)
 
