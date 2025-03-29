@@ -56,8 +56,8 @@
         var chart = echarts.init(document.getElementById('chart'));
 
         // Sample data
-        var classes = [];
-        var rawData = {};
+        var classes = ['Hunter', 'Vampiir'];
+        var rawData = {'2025-03-29': {'Vampiir': {'wins': 1, 'losses': 0, 'total': 1, 'damage done': 568, 'healing done': 0}, 'Hunter': {'wins': 0, 'losses': 1, 'total': 1, 'damage done': 0, 'healing done': 0}}};
                 var rawDataTimes = Object.keys(rawData).map(date => new Date(date).getTime());  // Convert date string to timestamp (milliseconds)
 
         // Get the minimum and maximum time
