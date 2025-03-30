@@ -56,7 +56,7 @@
         var chart = echarts.init(document.getElementById('chart'));
 
         // Sample data
-        var classes = ['Minstrel', 'Berserker', 'Heretic', 'Healer', 'Skald', 'Hunter', 'Warden', 'Shadowblade', 'Friar', 'Reaver', 'Eldritch'];
+        var classes = ['Eldritch', 'Warden', 'Skald', 'Minstrel', 'Friar', 'Berserker', 'Reaver', 'Hunter', 'Heretic', 'Healer', 'Shadowblade'];
         var rawData = {'2025-03-29': {'Hunter': {'wins': 1, 'losses': 0, 'total': 1, 'damage done': 799, 'healing done': 0}, 'Shadowblade': {'wins': 1, 'losses': 0, 'total': 1, 'damage done': 631, 'healing done': 0}, 'Friar': {'wins': 0, 'losses': 1, 'total': 1, 'damage done': 274, 'healing done': 853}, 'Reaver': {'wins': 0, 'losses': 1, 'total': 1, 'damage done': 596, 'healing done': 216}}, '2025-03-30': {'Eldritch': {'wins': 1, 'losses': 0, 'total': 1, 'damage done': 2226, 'healing done': 0}, 'Warden': {'wins': 1, 'losses': 0, 'total': 1, 'damage done': 447, 'healing done': 206}, 'Healer': {'wins': 0, 'losses': 2, 'total': 2, 'damage done': 0, 'healing done': 335}, 'Berserker': {'wins': 0, 'losses': 1, 'total': 1, 'damage done': 0, 'healing done': 40}, 'Minstrel': {'wins': 1, 'losses': 0, 'total': 1, 'damage done': 1163, 'healing done': 0}, 'Heretic': {'wins': 1, 'losses': 0, 'total': 1, 'damage done': 2850, 'healing done': 0}, 'Skald': {'wins': 0, 'losses': 1, 'total': 1, 'damage done': 0, 'healing done': 0}}};
                 var rawDataTimes = Object.keys(rawData).map(date => new Date(date).getTime());  // Convert date string to timestamp (milliseconds)
 
