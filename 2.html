@@ -56,7 +56,7 @@
         var chart = echarts.init(document.getElementById('chart'));
 
         // Sample data
-        var classes = ['Shadowblade', 'Hunter', 'Friar', 'Reaver'];
+        var classes = ['Friar', 'Reaver', 'Hunter', 'Shadowblade'];
         var rawData = {'2025-03-29': {'Hunter': {'wins': 1, 'losses': 0, 'total': 1, 'damage done': 799, 'healing done': 0}, 'Shadowblade': {'wins': 1, 'losses': 0, 'total': 1, 'damage done': 631, 'healing done': 0}, 'Friar': {'wins': 0, 'losses': 1, 'total': 1, 'damage done': 274, 'healing done': 853}, 'Reaver': {'wins': 0, 'losses': 1, 'total': 1, 'damage done': 596, 'healing done': 216}}};
                 var rawDataTimes = Object.keys(rawData).map(date => new Date(date).getTime());  // Convert date string to timestamp (milliseconds)
 
