@@ -27,7 +27,23 @@
             color: white;
             text-align: center;
             font-size: 2em;
-            padding-top: 20%;
+            padding-top: 0%;
+        }
+
+        .triangle-container {
+        display: grid;
+        justify-content: center;
+        gap: 0.5rem;
+        }
+
+        .triangle-row {
+        display: flex;
+        justify-content: center;
+        gap: 0.5rem;
+        }
+
+        .triangle-row button {
+        padding: 0.5rem 1rem;
         }
     </style>
 
@@ -55,6 +71,10 @@
             <!-- Button for size 8 -->
             <button onclick="redirectToSize(8)">Size 8</button>
         </div>
+
+        <div class="triangle-container" id="triangle">
+            <!-- Buttons will be dynamically inserted here -->
+        </div>
     </div>
     <script>
         // Function to redirect to the appropriate size.html file
@@ -62,5 +82,31 @@
             window.location.href = size + '.html';  // Redirects to size.html (e.g., 1.html, 2.html)
         }
     </script>
+      <script>
+        const classes = ['Spiritmaster', 'Hero', 'Infiltrator', 'Reaver', 'Warlock', 'Thane', 'Armsman', 'Vampiir', 'Ranger', 'Blademaster', 'Warrior', 'Valkyrie', 'Bainshee', 'Druid', 'Bard', 'Cleric', 'Bonedancer', 'Mentalist', 'Skald', 'Wizard', 'Theurgist', 'Scout', 'Warden', 'Minstrel', 'Eldritch', 'Heretic', 'Nightshade', 'Valewalker', 'Shaman', 'Cabalist', 'Sorcerer', 'Paladin', 'Hunter', 'Enchanter', 'Animist', 'Friar', 'Necromancer', 'Runemaster', 'Healer', 'Shadowblade', 'Savage', 'Champion', 'Berserker', 'Mercenary', 'Occultist'];
+    
+        const container = document.getElementById('triangle');
+    
+        // Reverse to form inverted triangle
+        let index = 0;
+        let rowCount = 1;
+    
+        while (index < classes.length) {
+          const row = document.createElement('div');
+          row.className = 'triangle-row';
+    
+          const rowSize = rowCount;
+          for (let i = 0; i < rowSize && index < classes.length; i++) {
+            const btn = document.createElement('button');
+            btn.textContent = classes[index];
+            btn.onclick = () => location.href = btn.textContent+'.html';
+            row.appendChild(btn);
+            index++;
+          }
+    
+          container.prepend(row); // Prepend to build triangle from base upward
+          rowCount++;
+        }
+      </script>
 </body>
 </html>
