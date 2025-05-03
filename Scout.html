@@ -60,6 +60,9 @@
         <h2>Scout Fight Trends - By Group Size</h2>
         <div>
             <!-- Button for size 1 -->
+            <button onclick="redirectToMatchup()">1v1 Matchups</button>
+    
+            <!-- Button for size 1 -->
             <button onclick="redirectToSize(1)">Size 1</button>
     
             <!-- Button for size 2 -->
@@ -77,6 +80,9 @@
         // Function to redirect to the appropriate size.html file
         function redirectToSize(size) {
             window.location.href = 'Scout_'+ size + '.html';
+        }
+        function redirectToMatchup() {
+            window.location.href = 'Scout_matchups.html';
         }
     </script>
 </body>
