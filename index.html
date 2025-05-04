@@ -31,6 +31,12 @@
     .realm-col {
       margin-bottom: 30px;
     }
+    .video-background {
+        flex: 1;
+        width: 100%;
+        object-fit: cover;
+        height: 50vh;
+    }
   </style>
 </head>
 <body>
@@ -158,6 +164,12 @@
           
     </div>
   </div>
+
+    <!-- Video as background -->
+    <video autoplay muted loop class="video-background">
+    <source src="splash.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+    </video>
 
   <script>
     function navigateToClass(selectElement) {
