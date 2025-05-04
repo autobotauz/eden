@@ -39,7 +39,19 @@
  <!-- Sidebar -->
 <div class="sidebar">
     <h5>Class Navigation</h5>
-  
+    <div class="mb-3">
+        <label for="group-size" class="form-label">Group Size</label>
+        <select class="form-select" id="group-size">
+          <option selected disabled>Select Group Size</option>
+          <option value="1">1</option>
+          <option value="2">2</option>
+          <!-- <option value="3">3</option> -->
+          <!-- <option value="4">4</option> -->
+          <option value="5">5</option>
+          <!-- <option value="6">6</option> -->
+          <option value="8">8</option>
+        </select>
+      </div>
     <div class="mb-3">
       <label for="albion-select" class="form-label">Albion</label>
       <select class="form-select" id="albion-select" onchange="navigateToClass(this)">
@@ -240,15 +252,20 @@
     rows.forEach(row => tbody.appendChild(row));
   }
 </script>
-
-  <script>
-    function navigateToClass(selectElement) {
-      const url = selectElement.value;
-      if (url) {
-        window.location.href = url;
-      }
-    }
-  </script>
+    <script>
+        function navigateToClass(selectElement) {
+          const classPage = selectElement.value.replace(".html", ""); // remove .html
+          const groupSize = document.getElementById("group-size").value;
+      
+          if (!groupSize || groupSize === "Select Group Size") {
+            alert("Please select a group size first.");
+            return;
+          }
+      
+          const finalPage = `${classPage}_${groupSize}.html`;
+          window.location.href = finalPage;
+        }
+      </script>
 </body>
 </html>
     
