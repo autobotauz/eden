@@ -1,0 +1,42 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Class Metrics Pie Charts</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; }
+        .chart-container { 
+            max-width: 400px; 
+            height: 400px; 
+            margin: 20px auto; 
+            display: inline-block; 
+            vertical-align: top; 
+        }
+        h2 { text-align: center; }
+    </style>
+</head>
+<body>
+    <h2>Class Metrics Breakdown (Percentages)</h2>
+    <div style="text-align: center;">
+        <div class="chart-container"><canvas id="damageChart"></canvas></div>
+        <div class="chart-container"><canvas id="healingChart"></canvas></div>
+    </div>
+
+    <script>
+        try {
+            const charts = {
+                damageChart: {"type": "pie", "data": {"labels": ["Animist (0.2%)", "Armsman (0.8%)", "Bainshee (0.1%)", "Bard (0.3%)", "Berserker (3.3%)", "Blademaster (1.7%)", "Bonedancer (1.2%)", "Cabalist (0.2%)", "Champion (3.2%)", "Cleric (0.5%)", "Druid (0.5%)", "Eldritch (1.8%)", "Enchanter (1.1%)", "Friar (3.1%)", "Healer (0.1%)", "Heretic (1.6%)", "Hero (2.2%)", "Hunter (2.0%)", "Infiltrator (2.6%)", "Mentalist (0.9%)", "Mercenary (5.0%)", "Minstrel (3.8%)", "Necromancer (1.3%)", "Nightshade (4.3%)", "Occultist (2.6%)", "Paladin (3.5%)", "Ranger (2.0%)", "Reaver (3.6%)", "Runemaster (0.8%)", "Savage (2.4%)", "Scout (3.5%)", "Shadowblade (4.1%)", "Shaman (0.2%)", "Skald (9.3%)", "Sorcerer (2.2%)", "Spiritmaster (0.6%)", "Thane (1.8%)", "Theurgist (0.2%)", "Valewalker (2.3%)", "Valkyrie (3.8%)", "Vampiir (8.2%)", "Warden (1.3%)", "Warlock (3.0%)", "Warrior (2.7%)", "Wizard (0.3%)"], "datasets": [{"data": [0.16, 0.75, 0.1, 0.32, 3.27, 1.74, 1.25, 0.16, 3.2, 0.52, 0.45, 1.83, 1.13, 3.12, 0.08, 1.55, 2.24, 2.04, 2.65, 0.94, 5.01, 3.8, 1.29, 4.27, 2.56, 3.51, 2.0, 3.57, 0.76, 2.44, 3.51, 4.09, 0.19, 9.32, 2.17, 0.58, 1.83, 0.19, 2.34, 3.75, 8.16, 1.27, 2.97, 2.66, 0.28], "backgroundColor": ["#FF6384", "#36A2EB", "#FFCE56", "#4BC0C0", "#9966FF", "#FF9F40", "#C9C9C9", "#535353", "#FF6384CC", "#36A2EBCC", "#FFCE56CC", "#4BC0C0CC", "#FF6384AA", "#36A2EBAA", "#FFCE56AA", "#4BC0C0AA", "#9966FFAA", "#FF9F40AA"], "borderColor": "#FFFFFF", "borderWidth": 1}]}, "options": {"responsive": true, "maintainAspectRatio": false, "plugins": {"legend": {"position": "right", "labels": {"font": {"size": 12}}}, "title": {"display": true, "text": "Damage by Class (%)", "font": {"size": 16}}, "tooltip": {"enabled": true, "callbacks": {"label": "\n                            function(context) {\n                                const label = context.label.split(' (')[0];\n                                const percentage = context.parsed.toFixed(1);\n                                const rawValue = context.dataset.data[context.dataIndex];\n                                return `${label}: ${percentage}% (${rawValue.toFixed(0)})`;\n                            }\n                            "}}}}},
+                healingChart: {"type": "pie", "data": {"labels": ["Animist (0.1%)", "Armsman (0.8%)", "Bainshee (0.0%)", "Bard (0.7%)", "Berserker (2.2%)", "Blademaster (1.1%)", "Bonedancer (1.5%)", "Cabalist (0.0%)", "Champion (2.5%)", "Cleric (2.0%)", "Druid (1.5%)", "Eldritch (0.4%)", "Enchanter (0.4%)", "Friar (13.8%)", "Healer (1.1%)", "Heretic (1.6%)", "Hero (1.9%)", "Hunter (0.9%)", "Infiltrator (1.1%)", "Mentalist (0.7%)", "Mercenary (3.0%)", "Minstrel (1.9%)", "Necromancer (0.0%)", "Nightshade (1.4%)", "Occultist (1.7%)", "Paladin (6.0%)", "Ranger (1.0%)", "Reaver (1.8%)", "Runemaster (0.2%)", "Savage (1.4%)", "Scout (1.0%)", "Shadowblade (1.6%)", "Shaman (0.4%)", "Skald (7.1%)", "Sorcerer (0.4%)", "Spiritmaster (0.1%)", "Thane (1.0%)", "Theurgist (0.1%)", "Valewalker (1.8%)", "Valkyrie (12.0%)", "Vampiir (15.5%)", "Warden (3.8%)", "Warlock (0.6%)", "Warrior (2.3%)", "Wizard (0.1%)"], "datasets": [{"data": [0.12, 0.83, 0.03, 0.7, 2.16, 1.11, 1.54, 0.02, 2.52, 1.96, 1.52, 0.37, 0.37, 13.75, 1.1, 1.62, 1.88, 0.89, 1.05, 0.67, 2.95, 1.95, 0.01, 1.41, 1.66, 6.0, 1.0, 1.76, 0.16, 1.36, 1.02, 1.6, 0.37, 7.12, 0.39, 0.12, 0.96, 0.05, 1.75, 11.97, 15.5, 3.75, 0.56, 2.3, 0.07], "backgroundColor": ["#FF6384", "#36A2EB", "#FFCE56", "#4BC0C0", "#9966FF", "#FF9F40", "#C9C9C9", "#535353", "#FF6384CC", "#36A2EBCC", "#FFCE56CC", "#4BC0C0CC", "#FF6384AA", "#36A2EBAA", "#FFCE56AA", "#4BC0C0AA", "#9966FFAA", "#FF9F40AA"], "borderColor": "#FFFFFF", "borderWidth": 1}]}, "options": {"responsive": true, "maintainAspectRatio": false, "plugins": {"legend": {"position": "right", "labels": {"font": {"size": 12}}}, "title": {"display": true, "text": "Healing by Class (%)", "font": {"size": 16}}, "tooltip": {"enabled": true, "callbacks": {"label": "\n                            function(context) {\n                                const label = context.label.split(' (')[0];\n                                const percentage = context.parsed.toFixed(1);\n                                const rawValue = context.dataset.data[context.dataIndex];\n                                return `${label}: ${percentage}% (${rawValue.toFixed(0)})`;\n                            }\n                            "}}}}}
+            };
+            Object.keys(charts).forEach(chartId => {
+                const ctx = document.getElementById(chartId).getContext('2d');
+                new Chart(ctx, charts[chartId]);
+            });
+        } catch (error) {
+            console.error('Chart rendering error:', error);
+            document.body.innerHTML += '<p style="color: red;">Error rendering charts: ' + error.message + '</p>';
+        }
+    </script>
+</body>
+</html>
