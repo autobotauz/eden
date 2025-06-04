@@ -195,10 +195,10 @@ def generate_html_charts(percentage_metrics, aggregated_metrics):
     <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
     <style>
         body {{ font-family: Arial, sans-serif; margin: 20px; }}
-            .chart-container {{ 
-            max-width: 375px;  
-            height: 375px;     
-            margin: 10px; 
+        .chart-container {{ 
+            max-width: 450px; 
+            height: 450px; 
+            margin: 20px; 
             display: inline-block; 
             vertical-align: top; 
         }}
