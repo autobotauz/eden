@@ -30,7 +30,6 @@ Argyle
 Darva
 Menefotte
 Thefiddler
-Rocketman
 Irritant
 Kaxou
 Ronjia
@@ -41,15 +40,12 @@ Leddy
 Xunleashed
 Reddude
 Gooftroop
-Mezzmiriam
 Mindwizard
 Wildsoul
 Juicie
 Nostaa
 Tchus
 Searing
-Ticiminaj
-Ashlanna
 Miscreated
 Superlekk
 Gryfis
@@ -84,7 +80,6 @@ Amina
 Sayplease
 Mirajs
 Proxey
-Archeals
 Umo
 Shoulda
 Giimbic
@@ -92,12 +87,11 @@ Netariyah
 Yeeaahh
 Skedadle
 Lenfori
-Aries
 Valcyri
 Kohne
+Aries
 Andarna
 Lagherta
-Apu
 Tusker
 Woahx
 Alcagloric
@@ -132,7 +126,6 @@ Boogieman
 Sumbich
 Hasenoehrl
 Puddler
-Ofc
 Mephitic
 Carlsbad
 Julieval
