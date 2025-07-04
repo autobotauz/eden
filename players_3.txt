@@ -2,7 +2,6 @@
 Jea
 Mariajuana
 Dunsbolt
-Smolramps
 Sphz
 Clitaurus
 Baeltic
@@ -14,7 +13,6 @@ Daviand
 Juc
 Doris
 Aan
-Marsyangdi
 Dankheim
 Ozeazo
 Nogod
@@ -35,12 +33,10 @@ Tata
 Steipaann
 Crepecaramel
 Tacito
-Krappi
 Jhinny
 Micknuggets
 Rockinsteady
 Dalvaq
-Inixius
 Kyyle
 Tusker
 Nicerdicer
@@ -51,7 +47,6 @@ Jeanpignon
 Keinplanvonliebebzz
 Vodorn
 Hushimoto
-Loorryy
 Hardpusher
 Bigstanker
 Adolith
@@ -61,7 +56,6 @@ Kraang
 Sckxd
 Millybop
 Corb
-Mistressminstrel
 Kamiz
 Razzwrth
 Youtouchmytralalalal
@@ -81,8 +75,6 @@ Overclock
 Giimb
 Brawltoibiendessus
 Thori
-Lams
-Zilward
 Partywarden
 Leviathanlobster
 Thatcrazyscy
@@ -92,5 +84,4 @@ Oakmont
 Zorakk
 Jeckle
 Mvpdeeps
-Abracadbraa
 Krypte
