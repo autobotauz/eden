@@ -10,6 +10,7 @@ Melodink
 Mindmazing
 Mantozz
 Pancho
+Lambard
 Amkelavi
 Iamy
 Phenom
@@ -20,10 +21,10 @@ Wiliam
 Osckar
 Korbs
 Illest
+Funktastic
 Lasangelas
 Shandalfsz
 Corbo
-Skarabeuss
 Luxor
 Beegz
 Buckwheat
@@ -34,6 +35,7 @@ Pulptiction
 Proc
 Blazikin
 Korin
+Elcap
 Stu
 Pokarune
 Drelinia
@@ -42,6 +44,7 @@ Angelice
 Gropperrss
 Bertox
 Danidaniels
+Iata
 Buffoonn
 Lamelow
 Iperfedyou
@@ -50,7 +53,6 @@ Airrow
 Tarlon
 Tjalvary
 Gjornig
-Tmot
 Wreckserx
 Flashpacson
 Moral
