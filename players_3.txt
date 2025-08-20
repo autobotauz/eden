@@ -6,7 +6,6 @@ Marbrothrax
 Nillisse
 Valkhia
 Abusands
-Yinarja
 Meegz
 Corb
 Sceaudeaumythe
@@ -17,11 +16,11 @@ Moral
 Beegjnr
 Numerezz
 Lenneth
-Tmot
 Thomyz
 Miimi
 Heilorin
 Beledyr
+Tmot
 Laeknir
 Koboldlnc
 Gigavalk
@@ -90,7 +89,5 @@ Houdanx
 Rottweilers
 Beli
 Ramod
-Lasangelas
-Walkingdead
 Halibel
 Lunatiques
