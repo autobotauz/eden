@@ -6,6 +6,7 @@ Stych
 Lucilla
 Flashpacson
 Miimi
+Woozu
 Renf
 Koboldlnc
 Dwonk
@@ -14,12 +15,14 @@ Norsin
 Docstrel
 Sceaudeaumythe
 Millybop
+Streakmins
 Abusands
 Mezzerd
 Eliaslefourbe
 Brandever
 Jinsix
 Azuza
+Surrie
 Popehammer
 Alfcleric
 Ditziwtx
@@ -53,9 +56,12 @@ Depthpbt
 Nelleyw
 Toot
 Zorakk
+Jigsaw
 Yinzer
 Yeeaahh
 Sassyattitude
+Bodybear
+Jokerelf
 Susalightbox
 Sidikey
 Froschloeckchen
@@ -63,6 +69,7 @@ Sair
 Zyrogambetz
 Sisha
 Bwonk
+Lasangelas
 Finnosen
 Theath
 Nikxens
