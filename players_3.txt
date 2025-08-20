@@ -51,6 +51,9 @@ Lazyminstrel
 Stechatte
 Kyra
 Urass
+Cadalhart
+Corbon
+Wreckser
 Alefthook
 Olde
 Holybane
@@ -76,12 +79,9 @@ Zortz
 Susalightbox
 Lunatiques
 Cief
+Outsider
+Kyllua
 Ledrin
 Kylethegreat
 Vally
 Minibish
-Corbon
-Wreckser
-Cadalhart
-Kyllua
-Outsider
