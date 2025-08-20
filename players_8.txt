@@ -41,12 +41,12 @@ Crepesaumon
 Choibaedal
 Noaky
 Streakmins
-Mezzerd
 Leanxx
 Roadrunner
 Hegel
 Gardolan
 Leroy
+Mezzerd
 Jasu
 Petriot
 Reacct
@@ -56,7 +56,6 @@ Slurpee
 Pretiar
 Lorey
 Gochu
-Caillar
 Oblytion
 Mathurin
 Heinrich
@@ -126,8 +125,6 @@ Ajumma
 Jleez
 Koldheart
 Reisyune
-Bahamut
-Elunia
 Hanz
 Tsooz
 Xaala
@@ -152,8 +149,6 @@ Shodin
 Dirtball
 Eresham
 Orthon
-Wigglexx
-Poppi
 Hackeblock
 Soxx
 Moffx
@@ -180,7 +175,6 @@ Havnir
 Onerra
 Anhour
 Shiftngears
-Grydan
 Cyrun
 Chillsongs
 Moep
@@ -246,9 +240,9 @@ Numakyrie
 Brunnr
 Neelee
 Xavalk
-Rubyneuse
 Btiervalk
 Siilkyss
+Rubyneuse
 Cadae
 Vks
 Kenpadin
@@ -270,12 +264,10 @@ Enee
 Crimax
 Sen
 Coldance
-Aarg
 Umbrellad
 Farex
 Neveht
 Freshboy
 Gong
 Ownnyn
-Illab
 Bigtunak
