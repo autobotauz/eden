@@ -1,7 +1,7 @@
 
 Loig
-Teddybeer
 Jerzk
+Teddybeer
 Baam
 Barbichette
 Tunari
@@ -24,6 +24,9 @@ Booggieman
 Tutuvroumvroum
 Sceaudeaumythe
 Lynchpin
+Houdaan
+Gigaskald
+Thaxxsassillia
 Iperfedyou
 Gwhanzhytax
 Huhbard
@@ -39,10 +42,9 @@ Snapsnip
 Kyllua
 Malikethh
 Katzi
-Fallace
 Wariyhealz
 Melajh
-Pastah
+Fallace
 Skrawnie
 Jesabelle
 Balliric
@@ -53,8 +55,6 @@ Ladyzelta
 Pluter
 Ndessu
 Minimies
-Houdaan
-Gigaskald
 Berthalol
 Stukovia
 Torkeug
@@ -65,7 +65,6 @@ Terry
 Sarcas
 Ladyreaver
 Mikoto
-Thaxxsassillia
 Koleo
 Karackk
 Waypher
