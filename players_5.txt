@@ -1,23 +1,19 @@
 
 Rooy
-Corvette
 Guetta
 Magmasong
 Shuhua
 Mindlle
 Zeejay
-Tuvastheuterre
 Choonjang
 Eaz
 Teddyshearingham
-Haruka
 Foolien
 Deathheals
 Oceania
 Uunnee
 Magmaheals
 Vumas
-Satsuki
 Feyinn
 Integrity
 Ztj
@@ -33,7 +29,6 @@ True
 Razzx
 Loig
 Chowderz
-Bredoxox
 Joshuazerkzee
 Marus
 Klod
@@ -44,7 +39,6 @@ Venary
 Houdaan
 Hemmet
 Nathy
-Unode
 Leetard
 Eberechimezze
 Kawa
@@ -54,7 +48,6 @@ Laeknir
 Lastaction
 Xaala
 Woozu
-Tusker
 Pebbels
 Hemorrhage
 Oatpocalypse
@@ -69,14 +62,12 @@ Copi
 Herlogic
 Hulluu
 Meetshield
-Sha
 Speedyshamy
 Tokkasham
 Tonbot
 Jokerelf
 Kvasir
 Ashane
-Concorde
 Melodies
 Shiftngears
 Tilawia
