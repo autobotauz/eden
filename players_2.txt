@@ -9,7 +9,6 @@ Abombskald
 Snabbaanna
 Renslip
 Dwad
-Herlogic
 Culdechene
 Plinkybinders
 Thorhackz
@@ -37,8 +36,8 @@ Storminette
 Thiar
 Damandara
 Potatobard
-Aline
 Lilwreckz
+Lucifah
 Broutous
 Xabrast
 Majvor
@@ -58,6 +57,7 @@ Guezmerr
 Shooter
 Quizzit
 Foryouo
+Tresca
 Hze
 Tmoy
 Jeffreymaxwell
