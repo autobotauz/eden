@@ -15,10 +15,10 @@ Fallace
 Hkeraa
 Pimpsteur
 Bendun
-Dyzun
 Lastaction
 Hemmet
 Lokijib
+Dyzun
 Renfield
 Baam
 Dobitroll
@@ -27,9 +27,10 @@ Sandroskkii
 Quizzit
 Foryouo
 Youarefired
-Tictockk
+Zaych
 Crepecognac
 Ntrololol
+Tmoy
 Tresca
 Ilariasalis
 Arta
@@ -61,7 +62,8 @@ Avalonain
 Chantbot
 Sirclad
 Phanama
-Shooter
+Venary
+Ralesh
 Blackrandysavage
 Doroga
 Tonbot
