@@ -1,0 +1,10308 @@
+{
+  "2025-08-09": {
+    "Blademaster": {
+      "8L1": {
+        "wins": 1,
+        "losses": 0
+      },
+      "2L9": {
+        "wins": 0,
+        "losses": 1
+      },
+      "3L6": {
+        "wins": 0,
+        "losses": 1
+      },
+      "3L9": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Bard": {
+      "3L9": {
+        "wins": 1,
+        "losses": 0
+      },
+      "5L2": {
+        "wins": 1,
+        "losses": 0
+      },
+      "4L3": {
+        "wins": 1,
+        "losses": 0
+      },
+      "3L6": {
+        "wins": 0,
+        "losses": 1
+      },
+      "6L6": {
+        "wins": 2,
+        "losses": 1
+      },
+      "5L1": {
+        "wins": 0,
+        "losses": 1
+      },
+      "5L8": {
+        "wins": 0,
+        "losses": 1
+      },
+      "5L3": {
+        "wins": 1,
+        "losses": 2
+      }
+    },
+    "Champion": {
+      "2L8": {
+        "wins": 1,
+        "losses": 0
+      },
+      "2L7": {
+        "wins": 1,
+        "losses": 0
+      },
+      "7L2": {
+        "wins": 1,
+        "losses": 2
+      }
+    },
+    "Warden": {
+      "5L9": {
+        "wins": 1,
+        "losses": 0
+      },
+      "4L0": {
+        "wins": 0,
+        "losses": 1
+      },
+      "8L3": {
+        "wins": 2,
+        "losses": 1
+      },
+      "5L8": {
+        "wins": 1,
+        "losses": 2
+      }
+    },
+    "Friar": {
+      "2L9": {
+        "wins": 0,
+        "losses": 1
+      },
+      "4L5": {
+        "wins": 0,
+        "losses": 1
+      },
+      "11L5": {
+        "wins": 1,
+        "losses": 0
+      },
+      "5L4": {
+        "wins": 2,
+        "losses": 0
+      },
+      "11L0": {
+        "wins": 0,
+        "losses": 2
+      }
+    },
+    "Heretic": {
+      "3L9": {
+        "wins": 0,
+        "losses": 1
+      },
+      "2L9": {
+        "wins": 0,
+        "losses": 2
+      },
+      "3L6": {
+        "wins": 2,
+        "losses": 1
+      },
+      "5L2": {
+        "wins": 2,
+        "losses": 0
+      },
+      "7L2": {
+        "wins": 0,
+        "losses": 1
+      },
+      "9L9": {
+        "wins": 0,
+        "losses": 1
+      },
+      "10L3": {
+        "wins": 0,
+        "losses": 1
+      },
+      "10L2": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Cleric": {
+      "6L0": {
+        "wins": 0,
+        "losses": 1
+      },
+      "5L1": {
+        "wins": 2,
+        "losses": 1
+      },
+      "2L7": {
+        "wins": 0,
+        "losses": 1
+      },
+      "7L0": {
+        "wins": 1,
+        "losses": 0
+      },
+      "6L2": {
+        "wins": 1,
+        "losses": 0
+      },
+      "9L5": {
+        "wins": 1,
+        "losses": 0
+      },
+      "2L3": {
+        "wins": 1,
+        "losses": 0
+      },
+      "7L3": {
+        "wins": 2,
+        "losses": 0
+      }
+    },
+    "Occultist": {
+      "5L0": {
+        "wins": 0,
+        "losses": 1
+      },
+      "5L2": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Theurgist": {
+      "5L2": {
+        "wins": 0,
+        "losses": 1
+      },
+      "3L2": {
+        "wins": 0,
+        "losses": 1
+      },
+      "10L5": {
+        "wins": 2,
+        "losses": 1
+      },
+      "3L9": {
+        "wins": 0,
+        "losses": 1
+      },
+      "4L4": {
+        "wins": 0,
+        "losses": 2
+      }
+    },
+    "Sorcerer": {
+      "3L6": {
+        "wins": 2,
+        "losses": 2
+      },
+      "3L3": {
+        "wins": 1,
+        "losses": 0
+      },
+      "3L4": {
+        "wins": 1,
+        "losses": 1
+      },
+      "5L0": {
+        "wins": 0,
+        "losses": 1
+      },
+      "11L1": {
+        "wins": 1,
+        "losses": 0
+      },
+      "7L4": {
+        "wins": 3,
+        "losses": 2
+      },
+      "5L5": {
+        "wins": 1,
+        "losses": 0
+      },
+      "6L3": {
+        "wins": 3,
+        "losses": 0
+      },
+      "7L1": {
+        "wins": 0,
+        "losses": 2
+      },
+      "5L6": {
+        "wins": 0,
+        "losses": 2
+      }
+    },
+    "Cabalist": {
+      "4L2": {
+        "wins": 1,
+        "losses": 1
+      },
+      "3L0": {
+        "wins": 1,
+        "losses": 0
+      },
+      "5L5": {
+        "wins": 2,
+        "losses": 0
+      },
+      "3L5": {
+        "wins": 0,
+        "losses": 2
+      }
+    },
+    "Paladin": {
+      "2L5": {
+        "wins": 1,
+        "losses": 0
+      },
+      "2L6": {
+        "wins": 1,
+        "losses": 1
+      },
+      "5L5": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Minstrel": {
+      "3L7": {
+        "wins": 2,
+        "losses": 1
+      },
+      "6L2": {
+        "wins": 0,
+        "losses": 1
+      },
+      "3L0": {
+        "wins": 1,
+        "losses": 0
+      },
+      "6L7": {
+        "wins": 1,
+        "losses": 0
+      },
+      "9L5": {
+        "wins": 2,
+        "losses": 0
+      },
+      "6L0": {
+        "wins": 0,
+        "losses": 2
+      },
+      "5L1": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Shaman": {
+      "4L3": {
+        "wins": 1,
+        "losses": 2
+      },
+      "5L4": {
+        "wins": 1,
+        "losses": 0
+      },
+      "5L8": {
+        "wins": 0,
+        "losses": 1
+      },
+      "8L4": {
+        "wins": 0,
+        "losses": 2
+      }
+    },
+    "Savage": {
+      "4L6": {
+        "wins": 1,
+        "losses": 2
+      },
+      "5L3": {
+        "wins": 0,
+        "losses": 1
+      },
+      "5L5": {
+        "wins": 0,
+        "losses": 2
+      },
+      "4L7": {
+        "wins": 7,
+        "losses": 1
+      },
+      "3L9": {
+        "wins": 3,
+        "losses": 0
+      },
+      "4L1": {
+        "wins": 3,
+        "losses": 0
+      },
+      "4L2": {
+        "wins": 4,
+        "losses": 1
+      },
+      "4L0": {
+        "wins": 4,
+        "losses": 1
+      }
+    },
+    "Warrior": {
+      "6L8": {
+        "wins": 1,
+        "losses": 2
+      },
+      "5L2": {
+        "wins": 1,
+        "losses": 0
+      },
+      "3L8": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Healer": {
+      "4L1": {
+        "wins": 1,
+        "losses": 1
+      },
+      "6L5": {
+        "wins": 8,
+        "losses": 3
+      },
+      "4L2": {
+        "wins": 0,
+        "losses": 1
+      },
+      "6L6": {
+        "wins": 0,
+        "losses": 1
+      },
+      "3L2": {
+        "wins": 0,
+        "losses": 1
+      },
+      "8L2": {
+        "wins": 0,
+        "losses": 1
+      },
+      "5L1": {
+        "wins": 0,
+        "losses": 1
+      },
+      "5L0": {
+        "wins": 0,
+        "losses": 1
+      },
+      "7L9": {
+        "wins": 0,
+        "losses": 1
+      },
+      "8L4": {
+        "wins": 0,
+        "losses": 2
+      },
+      "6L7": {
+        "wins": 0,
+        "losses": 2
+      },
+      "5L8": {
+        "wins": 2,
+        "losses": 0
+      },
+      "5L9": {
+        "wins": 5,
+        "losses": 1
+      },
+      "4L8": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Skald": {
+      "7L2": {
+        "wins": 1,
+        "losses": 2
+      },
+      "2L6": {
+        "wins": 1,
+        "losses": 0
+      },
+      "2L5": {
+        "wins": 1,
+        "losses": 0
+      },
+      "4L4": {
+        "wins": 0,
+        "losses": 1
+      },
+      "5L4": {
+        "wins": 0,
+        "losses": 1
+      },
+      "3L6": {
+        "wins": 0,
+        "losses": 1
+      },
+      "5L2": {
+        "wins": 4,
+        "losses": 1
+      },
+      "6L4": {
+        "wins": 0,
+        "losses": 2
+      },
+      "5L3": {
+        "wins": 3,
+        "losses": 1
+      },
+      "4L3": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Bonedancer": {
+      "4L8": {
+        "wins": 1,
+        "losses": 2
+      },
+      "2L5": {
+        "wins": 1,
+        "losses": 1
+      }
+    },
+    "Valkyrie": {
+      "3L3": {
+        "wins": 1,
+        "losses": 0
+      },
+      "2L4": {
+        "wins": 1,
+        "losses": 0
+      },
+      "4L3": {
+        "wins": 0,
+        "losses": 1
+      },
+      "3L5": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Spiritmaster": {
+      "6L6": {
+        "wins": 1,
+        "losses": 0
+      },
+      "2L0": {
+        "wins": 0,
+        "losses": 1
+      },
+      "5L0": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Armsman": {
+      "3L3": {
+        "wins": 0,
+        "losses": 1
+      },
+      "3L9": {
+        "wins": 1,
+        "losses": 0
+      },
+      "5L5": {
+        "wins": 2,
+        "losses": 0
+      }
+    },
+    "Reaver": {
+      "5L7": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Runemaster": {
+      "10L2": {
+        "wins": 0,
+        "losses": 1
+      },
+      "6L2": {
+        "wins": 0,
+        "losses": 1
+      },
+      "8L4": {
+        "wins": 0,
+        "losses": 1
+      },
+      "3L0": {
+        "wins": 0,
+        "losses": 1
+      },
+      "2L7": {
+        "wins": 0,
+        "losses": 1
+      },
+      "6L0": {
+        "wins": 0,
+        "losses": 1
+      },
+      "5L4": {
+        "wins": 0,
+        "losses": 2
+      },
+      "4L9": {
+        "wins": 7,
+        "losses": 1
+      }
+    },
+    "Warlock": {
+      "2L5": {
+        "wins": 0,
+        "losses": 1
+      },
+      "4L8": {
+        "wins": 0,
+        "losses": 1
+      },
+      "5L5": {
+        "wins": 0,
+        "losses": 1
+      },
+      "6L9": {
+        "wins": 0,
+        "losses": 1
+      },
+      "7L4": {
+        "wins": 0,
+        "losses": 1
+      },
+      "4L0": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Mercenary": {
+      "11L7": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Necromancer": {
+      "3L2": {
+        "wins": 1,
+        "losses": 0
+      },
+      "10L2": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Druid": {
+      "3L8": {
+        "wins": 0,
+        "losses": 1
+      },
+      "7L9": {
+        "wins": 2,
+        "losses": 1
+      },
+      "5L6": {
+        "wins": 0,
+        "losses": 1
+      },
+      "3L5": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Valewalker": {
+      "3L4": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Eldritch": {
+      "2L8": {
+        "wins": 0,
+        "losses": 1
+      },
+      "5L7": {
+        "wins": 2,
+        "losses": 1
+      },
+      "3L6": {
+        "wins": 0,
+        "losses": 1
+      },
+      "5L4": {
+        "wins": 1,
+        "losses": 2
+      }
+    },
+    "Thane": {
+      "5L0": {
+        "wins": 0,
+        "losses": 1
+      },
+      "4L2": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Hunter": {
+      "4L4": {
+        "wins": 0,
+        "losses": 1
+      },
+      "2L7": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Berserker": {
+      "8L1": {
+        "wins": 0,
+        "losses": 1
+      },
+      "8L0": {
+        "wins": 0,
+        "losses": 2
+      },
+      "2L7": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Enchanter": {
+      "8L1": {
+        "wins": 2,
+        "losses": 1
+      },
+      "5L8": {
+        "wins": 0,
+        "losses": 1
+      },
+      "4L2": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Bainshee": {
+      "4L7": {
+        "wins": 2,
+        "losses": 0
+      },
+      "10L5": {
+        "wins": 0,
+        "losses": 1
+      },
+      "11L0": {
+        "wins": 1,
+        "losses": 2
+      }
+    },
+    "Mentalist": {
+      "6L9": {
+        "wins": 2,
+        "losses": 1
+      },
+      "8L4": {
+        "wins": 0,
+        "losses": 1
+      },
+      "5L5": {
+        "wins": 0,
+        "losses": 1
+      },
+      "5L2": {
+        "wins": 1,
+        "losses": 2
+      }
+    },
+    "Ranger": {
+      "4L4": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Hero": {
+      "5L5": {
+        "wins": 0,
+        "losses": 1
+      },
+      "4L9": {
+        "wins": 1,
+        "losses": 2
+      }
+    },
+    "Animist": {
+      "5L3": {
+        "wins": 0,
+        "losses": 1
+      },
+      "2L5": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Shadowblade": {
+      "3L0": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Infiltrator": {
+      "4L7": {
+        "wins": 0,
+        "losses": 1
+      }
+    }
+  },
+  "2025-08-10": {
+    "Ranger": {
+      "5L1": {
+        "wins": 1,
+        "losses": 0
+      },
+      "4L7": {
+        "wins": 1,
+        "losses": 1
+      },
+      "4L6": {
+        "wins": 1,
+        "losses": 0
+      },
+      "2L8": {
+        "wins": 1,
+        "losses": 0
+      },
+      "2L9": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Nightshade": {
+      "5L3": {
+        "wins": 1,
+        "losses": 1
+      },
+      "4L4": {
+        "wins": 1,
+        "losses": 0
+      },
+      "6L3": {
+        "wins": 1,
+        "losses": 1
+      }
+    },
+    "Shadowblade": {
+      "2L4": {
+        "wins": 0,
+        "losses": 1
+      },
+      "3L8": {
+        "wins": 0,
+        "losses": 1
+      },
+      "3L6": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Healer": {
+      "5L5": {
+        "wins": 0,
+        "losses": 1
+      },
+      "2L9": {
+        "wins": 0,
+        "losses": 1
+      },
+      "6L0": {
+        "wins": 0,
+        "losses": 1
+      },
+      "2L5": {
+        "wins": 0,
+        "losses": 1
+      },
+      "3L1": {
+        "wins": 0,
+        "losses": 1
+      },
+      "9L0": {
+        "wins": 2,
+        "losses": 1
+      },
+      "7L0": {
+        "wins": 2,
+        "losses": 0
+      },
+      "11L3": {
+        "wins": 0,
+        "losses": 2
+      },
+      "9L3": {
+        "wins": 0,
+        "losses": 3
+      },
+      "11L4": {
+        "wins": 0,
+        "losses": 1
+      },
+      "6L3": {
+        "wins": 2,
+        "losses": 0
+      },
+      "4L9": {
+        "wins": 2,
+        "losses": 0
+      },
+      "6L4": {
+        "wins": 0,
+        "losses": 2
+      },
+      "6L5": {
+        "wins": 0,
+        "losses": 2
+      }
+    },
+    "Warlock": {
+      "3L7": {
+        "wins": 0,
+        "losses": 1
+      },
+      "3L3": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Valkyrie": {
+      "6L0": {
+        "wins": 0,
+        "losses": 1
+      },
+      "2L4": {
+        "wins": 0,
+        "losses": 1
+      },
+      "6L8": {
+        "wins": 2,
+        "losses": 0
+      },
+      "3L6": {
+        "wins": 0,
+        "losses": 2
+      }
+    },
+    "Shaman": {
+      "3L2": {
+        "wins": 0,
+        "losses": 1
+      },
+      "11L8": {
+        "wins": 2,
+        "losses": 1
+      },
+      "9L3": {
+        "wins": 0,
+        "losses": 2
+      },
+      "4L4": {
+        "wins": 0,
+        "losses": 1
+      },
+      "6L3": {
+        "wins": 2,
+        "losses": 0
+      }
+    },
+    "Infiltrator": {
+      "5L2": {
+        "wins": 1,
+        "losses": 0
+      },
+      "11L0": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Scout": {
+      "7L1": {
+        "wins": 1,
+        "losses": 0
+      },
+      "5L6": {
+        "wins": 2,
+        "losses": 0
+      },
+      "4L8": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Friar": {
+      "6L7": {
+        "wins": 1,
+        "losses": 0
+      },
+      "9L2": {
+        "wins": 2,
+        "losses": 0
+      }
+    },
+    "Cleric": {
+      "5L2": {
+        "wins": 1,
+        "losses": 0
+      },
+      "4L7": {
+        "wins": 2,
+        "losses": 0
+      }
+    },
+    "Mercenary": {
+      "2L2": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Paladin": {
+      "2L8": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Sorcerer": {
+      "7L4": {
+        "wins": 1,
+        "losses": 0
+      },
+      "6L3": {
+        "wins": 2,
+        "losses": 0
+      }
+    },
+    "Armsman": {
+      "5L7": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Heretic": {
+      "2L9": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Skald": {
+      "3L8": {
+        "wins": 0,
+        "losses": 1
+      },
+      "4L3": {
+        "wins": 0,
+        "losses": 1
+      },
+      "2L8": {
+        "wins": 0,
+        "losses": 1
+      },
+      "11L7": {
+        "wins": 2,
+        "losses": 1
+      },
+      "9L0": {
+        "wins": 0,
+        "losses": 2
+      },
+      "6L0": {
+        "wins": 2,
+        "losses": 0
+      },
+      "5L3": {
+        "wins": 0,
+        "losses": 2
+      }
+    },
+    "Warrior": {
+      "3L7": {
+        "wins": 0,
+        "losses": 1
+      },
+      "6L5": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Thane": {
+      "4L4": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Savage": {
+      "8L8": {
+        "wins": 2,
+        "losses": 1
+      },
+      "2L5": {
+        "wins": 0,
+        "losses": 1
+      },
+      "5L0": {
+        "wins": 0,
+        "losses": 1
+      },
+      "4L9": {
+        "wins": 0,
+        "losses": 2
+      },
+      "4L3": {
+        "wins": 0,
+        "losses": 2
+      },
+      "4L4": {
+        "wins": 0,
+        "losses": 2
+      }
+    },
+    "Berserker": {
+      "8L8": {
+        "wins": 2,
+        "losses": 0
+      },
+      "10L3": {
+        "wins": 0,
+        "losses": 2
+      },
+      "8L9": {
+        "wins": 0,
+        "losses": 1
+      },
+      "5L2": {
+        "wins": 2,
+        "losses": 0
+      }
+    },
+    "Spiritmaster": {
+      "5L2": {
+        "wins": 0,
+        "losses": 2
+      }
+    },
+    "Runemaster": {
+      "3L9": {
+        "wins": 0,
+        "losses": 2
+      },
+      "3L2": {
+        "wins": 0,
+        "losses": 1
+      },
+      "4L7": {
+        "wins": 0,
+        "losses": 1
+      },
+      "2L9": {
+        "wins": 2,
+        "losses": 0
+      }
+    },
+    "Minstrel": {
+      "7L5": {
+        "wins": 2,
+        "losses": 0
+      }
+    },
+    "Theurgist": {
+      "5L9": {
+        "wins": 2,
+        "losses": 0
+      }
+    },
+    "Cabalist": {
+      "4L4": {
+        "wins": 2,
+        "losses": 0
+      },
+      "4L3": {
+        "wins": 1,
+        "losses": 0
+      },
+      "4L5": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Mentalist": {
+      "8L2": {
+        "wins": 0,
+        "losses": 1
+      },
+      "3L3": {
+        "wins": 0,
+        "losses": 1
+      },
+      "5L2": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Valewalker": {
+      "4L9": {
+        "wins": 0,
+        "losses": 1
+      },
+      "5L9": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Bard": {
+      "4L6": {
+        "wins": 0,
+        "losses": 1
+      },
+      "9L6": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Warden": {
+      "9L2": {
+        "wins": 0,
+        "losses": 1
+      },
+      "5L9": {
+        "wins": 1,
+        "losses": 1
+      },
+      "10L0": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Hero": {
+      "9L2": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Champion": {
+      "3L6": {
+        "wins": 0,
+        "losses": 1
+      },
+      "7L2": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Blademaster": {
+      "9L2": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Bonedancer": {
+      "6L0": {
+        "wins": 0,
+        "losses": 1
+      },
+      "2L6": {
+        "wins": 0,
+        "losses": 1
+      },
+      "6L2": {
+        "wins": 2,
+        "losses": 0
+      }
+    }
+  },
+  "2025-08-11": {
+    "Valkyrie": {
+      "6L9": {
+        "wins": 2,
+        "losses": 0
+      }
+    },
+    "Shaman": {
+      "11L8": {
+        "wins": 2,
+        "losses": 0
+      },
+      "8L9": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Savage": {
+      "8L8": {
+        "wins": 2,
+        "losses": 0
+      }
+    },
+    "Healer": {
+      "9L1": {
+        "wins": 2,
+        "losses": 0
+      },
+      "3L4": {
+        "wins": 0,
+        "losses": 1
+      },
+      "11L9": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Berserker": {
+      "3L4": {
+        "wins": 1,
+        "losses": 0
+      },
+      "3L5": {
+        "wins": 1,
+        "losses": 0
+      },
+      "9L0": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Skald": {
+      "4L8": {
+        "wins": 1,
+        "losses": 0
+      },
+      "4L9": {
+        "wins": 1,
+        "losses": 0
+      },
+      "3L1": {
+        "wins": 0,
+        "losses": 1
+      },
+      "2L3": {
+        "wins": 0,
+        "losses": 1
+      },
+      "8L1": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Runemaster": {
+      "6L5": {
+        "wins": 2,
+        "losses": 0
+      },
+      "11L2": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Theurgist": {
+      "7L1": {
+        "wins": 0,
+        "losses": 1
+      },
+      "2L5": {
+        "wins": 0,
+        "losses": 2
+      }
+    },
+    "Cabalist": {
+      "4L0": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Heretic": {
+      "10L9": {
+        "wins": 0,
+        "losses": 1
+      },
+      "3L2": {
+        "wins": 0,
+        "losses": 1
+      },
+      "4L3": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Friar": {
+      "4L6": {
+        "wins": 0,
+        "losses": 1
+      },
+      "3L7": {
+        "wins": 0,
+        "losses": 1
+      },
+      "2L9": {
+        "wins": 0,
+        "losses": 1
+      },
+      "6L0": {
+        "wins": 1,
+        "losses": 0
+      },
+      "6L5": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Sorcerer": {
+      "3L8": {
+        "wins": 0,
+        "losses": 1
+      },
+      "3L3": {
+        "wins": 0,
+        "losses": 1
+      },
+      "11L6": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Mercenary": {
+      "5L9": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Cleric": {
+      "9L7": {
+        "wins": 0,
+        "losses": 1
+      },
+      "2L5": {
+        "wins": 0,
+        "losses": 1
+      },
+      "4L3": {
+        "wins": 1,
+        "losses": 0
+      },
+      "6L4": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Paladin": {
+      "2L3": {
+        "wins": 0,
+        "losses": 1
+      },
+      "2L8": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Wizard": {
+      "5L4": {
+        "wins": 0,
+        "losses": 1
+      },
+      "2L0": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Occultist": {
+      "2L2": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Minstrel": {
+      "2L7": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Mentalist": {
+      "3L8": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Eldritch": {
+      "3L2": {
+        "wins": 1,
+        "losses": 0
+      },
+      "8L5": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Champion": {
+      "5L3": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Bard": {
+      "9L5": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Warden": {
+      "3L2": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Spiritmaster": {
+      "2L5": {
+        "wins": 0,
+        "losses": 1
+      },
+      "5L4": {
+        "wins": 1,
+        "losses": 0
+      },
+      "11L6": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Reaver": {
+      "6L1": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Armsman": {
+      "7L1": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Ranger": {
+      "6L0": {
+        "wins": 0,
+        "losses": 1
+      },
+      "5L6": {
+        "wins": 0,
+        "losses": 1
+      },
+      "5L2": {
+        "wins": 0,
+        "losses": 3
+      },
+      "4L8": {
+        "wins": 0,
+        "losses": 1
+      },
+      "3L6": {
+        "wins": 0,
+        "losses": 1
+      },
+      "5L3": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Nightshade": {
+      "5L5": {
+        "wins": 0,
+        "losses": 1
+      },
+      "6L5": {
+        "wins": 0,
+        "losses": 1
+      }
+    }
+  },
+  "2025-08-12": {
+    "Eldritch": {
+      "6L8": {
+        "wins": 2,
+        "losses": 0
+      }
+    },
+    "Vampiir": {
+      "5L3": {
+        "wins": 1,
+        "losses": 0
+      },
+      "5L4": {
+        "wins": 1,
+        "losses": 0
+      },
+      "4L1": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Hero": {
+      "9L3": {
+        "wins": 2,
+        "losses": 0
+      },
+      "7L1": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Champion": {
+      "7L4": {
+        "wins": 2,
+        "losses": 0
+      }
+    },
+    "Warden": {
+      "11L4": {
+        "wins": 2,
+        "losses": 0
+      },
+      "7L2": {
+        "wins": 1,
+        "losses": 2
+      }
+    },
+    "Mentalist": {
+      "7L6": {
+        "wins": 2,
+        "losses": 0
+      },
+      "8L3": {
+        "wins": 1,
+        "losses": 0
+      },
+      "6L3": {
+        "wins": 1,
+        "losses": 2
+      }
+    },
+    "Bard": {
+      "8L2": {
+        "wins": 3,
+        "losses": 0
+      },
+      "4L3": {
+        "wins": 1,
+        "losses": 0
+      },
+      "3L0": {
+        "wins": 1,
+        "losses": 0
+      },
+      "8L6": {
+        "wins": 1,
+        "losses": 2
+      },
+      "9L6": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Minstrel": {
+      "6L2": {
+        "wins": 0,
+        "losses": 1
+      },
+      "4L0": {
+        "wins": 0,
+        "losses": 1
+      },
+      "8L6": {
+        "wins": 0,
+        "losses": 1
+      },
+      "9L7": {
+        "wins": 3,
+        "losses": 0
+      }
+    },
+    "Heretic": {
+      "8L6": {
+        "wins": 0,
+        "losses": 1
+      },
+      "12L0": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Friar": {
+      "2L5": {
+        "wins": 0,
+        "losses": 1
+      },
+      "2L2": {
+        "wins": 0,
+        "losses": 1
+      },
+      "6L0": {
+        "wins": 0,
+        "losses": 1
+      },
+      "9L9": {
+        "wins": 0,
+        "losses": 1
+      },
+      "10L2": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Mercenary": {
+      "5L7": {
+        "wins": 0,
+        "losses": 1
+      },
+      "2L9": {
+        "wins": 1,
+        "losses": 0
+      },
+      "3L0": {
+        "wins": 2,
+        "losses": 0
+      }
+    },
+    "Reaver": {
+      "6L8": {
+        "wins": 0,
+        "losses": 1
+      },
+      "2L6": {
+        "wins": 0,
+        "losses": 1
+      },
+      "3L8": {
+        "wins": 3,
+        "losses": 0
+      },
+      "5L6": {
+        "wins": 3,
+        "losses": 0
+      }
+    },
+    "Blademaster": {
+      "5L6": {
+        "wins": 1,
+        "losses": 0
+      },
+      "8L3": {
+        "wins": 2,
+        "losses": 0
+      }
+    },
+    "Druid": {
+      "4L4": {
+        "wins": 1,
+        "losses": 0
+      },
+      "10L9": {
+        "wins": 1,
+        "losses": 2
+      },
+      "7L0": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Valewalker": {
+      "5L7": {
+        "wins": 2,
+        "losses": 0
+      }
+    },
+    "Spiritmaster": {
+      "2L5": {
+        "wins": 0,
+        "losses": 1
+      },
+      "3L4": {
+        "wins": 0,
+        "losses": 1
+      },
+      "2L6": {
+        "wins": 0,
+        "losses": 1
+      },
+      "3L5": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Healer": {
+      "5L5": {
+        "wins": 0,
+        "losses": 1
+      },
+      "5L3": {
+        "wins": 0,
+        "losses": 2
+      },
+      "8L4": {
+        "wins": 2,
+        "losses": 1
+      },
+      "9L5": {
+        "wins": 2,
+        "losses": 1
+      },
+      "9L3": {
+        "wins": 1,
+        "losses": 2
+      },
+      "6L6": {
+        "wins": 4,
+        "losses": 2
+      },
+      "5L6": {
+        "wins": 0,
+        "losses": 1
+      },
+      "2L1": {
+        "wins": 0,
+        "losses": 1
+      },
+      "2L2": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Runemaster": {
+      "6L3": {
+        "wins": 0,
+        "losses": 2
+      },
+      "8L5": {
+        "wins": 0,
+        "losses": 2
+      },
+      "4L5": {
+        "wins": 1,
+        "losses": 2
+      },
+      "5L1": {
+        "wins": 2,
+        "losses": 1
+      },
+      "4L1": {
+        "wins": 0,
+        "losses": 2
+      },
+      "3L0": {
+        "wins": 0,
+        "losses": 2
+      }
+    },
+    "Skald": {
+      "4L8": {
+        "wins": 0,
+        "losses": 1
+      },
+      "5L3": {
+        "wins": 2,
+        "losses": 1
+      },
+      "6L5": {
+        "wins": 1,
+        "losses": 2
+      },
+      "5L4": {
+        "wins": 2,
+        "losses": 1
+      },
+      "4L9": {
+        "wins": 0,
+        "losses": 1
+      },
+      "2L6": {
+        "wins": 0,
+        "losses": 2
+      }
+    },
+    "Occultist": {
+      "5L6": {
+        "wins": 0,
+        "losses": 1
+      },
+      "10L3": {
+        "wins": 0,
+        "losses": 1
+      },
+      "3L8": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Wizard": {
+      "3L8": {
+        "wins": 0,
+        "losses": 1
+      },
+      "6L5": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Shaman": {
+      "10L6": {
+        "wins": 2,
+        "losses": 1
+      }
+    },
+    "Valkyrie": {
+      "8L5": {
+        "wins": 2,
+        "losses": 1
+      }
+    },
+    "Berserker": {
+      "10L6": {
+        "wins": 2,
+        "losses": 1
+      },
+      "11L0": {
+        "wins": 1,
+        "losses": 2
+      }
+    },
+    "Thane": {
+      "7L2": {
+        "wins": 2,
+        "losses": 1
+      },
+      "7L4": {
+        "wins": 1,
+        "losses": 2
+      },
+      "3L8": {
+        "wins": 0,
+        "losses": 2
+      },
+      "3L3": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Bainshee": {
+      "4L8": {
+        "wins": 1,
+        "losses": 2
+      }
+    },
+    "Animist": {
+      "7L8": {
+        "wins": 1,
+        "losses": 2
+      }
+    },
+    "Enchanter": {
+      "6L5": {
+        "wins": 1,
+        "losses": 2
+      }
+    },
+    "Savage": {
+      "6L4": {
+        "wins": 1,
+        "losses": 0
+      },
+      "5L1": {
+        "wins": 2,
+        "losses": 1
+      },
+      "4L7": {
+        "wins": 2,
+        "losses": 1
+      },
+      "4L8": {
+        "wins": 2,
+        "losses": 1
+      },
+      "6L5": {
+        "wins": 0,
+        "losses": 2
+      },
+      "4L6": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Warlock": {
+      "9L3": {
+        "wins": 1,
+        "losses": 2
+      },
+      "2L2": {
+        "wins": 0,
+        "losses": 2
+      }
+    },
+    "Cabalist": {
+      "6L1": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Paladin": {
+      "12L8": {
+        "wins": 0,
+        "losses": 1
+      },
+      "2L3": {
+        "wins": 0,
+        "losses": 1
+      },
+      "5L4": {
+        "wins": 3,
+        "losses": 0
+      }
+    },
+    "Cleric": {
+      "9L8": {
+        "wins": 0,
+        "losses": 1
+      },
+      "11L0": {
+        "wins": 0,
+        "losses": 1
+      },
+      "6L4": {
+        "wins": 3,
+        "losses": 0
+      },
+      "9L2": {
+        "wins": 3,
+        "losses": 0
+      }
+    },
+    "Armsman": {
+      "10L6": {
+        "wins": 0,
+        "losses": 1
+      }
+    }
+  },
+  "2025-08-13": {
+    "Eldritch": {
+      "6L7": {
+        "wins": 1,
+        "losses": 0
+      },
+      "11L1": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Enchanter": {
+      "11L2": {
+        "wins": 1,
+        "losses": 0
+      },
+      "6L0": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Warden": {
+      "6L9": {
+        "wins": 1,
+        "losses": 0
+      },
+      "7L6": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Bard": {
+      "11L3": {
+        "wins": 1,
+        "losses": 0
+      },
+      "7L9": {
+        "wins": 1,
+        "losses": 0
+      },
+      "5L2": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Druid": {
+      "11L4": {
+        "wins": 1,
+        "losses": 0
+      },
+      "7L2": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Animist": {
+      "6L1": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Warrior": {
+      "2L2": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Healer": {
+      "2L1": {
+        "wins": 0,
+        "losses": 1
+      },
+      "3L5": {
+        "wins": 0,
+        "losses": 1
+      },
+      "6L8": {
+        "wins": 0,
+        "losses": 1
+      },
+      "5L1": {
+        "wins": 0,
+        "losses": 1
+      },
+      "9L5": {
+        "wins": 1,
+        "losses": 0
+      },
+      "11L0": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Skald": {
+      "3L9": {
+        "wins": 0,
+        "losses": 1
+      },
+      "3L4": {
+        "wins": 1,
+        "losses": 1
+      },
+      "8L3": {
+        "wins": 0,
+        "losses": 1
+      },
+      "7L9": {
+        "wins": 0,
+        "losses": 1
+      },
+      "6L3": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Valkyrie": {
+      "2L2": {
+        "wins": 0,
+        "losses": 1
+      },
+      "5L1": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Spiritmaster": {
+      "3L4": {
+        "wins": 0,
+        "losses": 1
+      },
+      "11L0": {
+        "wins": 0,
+        "losses": 1
+      },
+      "7L6": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Warlock": {
+      "3L0": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Sorcerer": {
+      "8L9": {
+        "wins": 1,
+        "losses": 0
+      },
+      "4L9": {
+        "wins": 1,
+        "losses": 1
+      },
+      "6L7": {
+        "wins": 1,
+        "losses": 1
+      },
+      "7L6": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Wizard": {
+      "8L5": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Friar": {
+      "2L9": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Paladin": {
+      "6L5": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Mercenary": {
+      "9L0": {
+        "wins": 1,
+        "losses": 0
+      },
+      "5L5": {
+        "wins": 1,
+        "losses": 1
+      }
+    },
+    "Cleric": {
+      "11L2": {
+        "wins": 1,
+        "losses": 0
+      },
+      "4L9": {
+        "wins": 0,
+        "losses": 1
+      },
+      "6L0": {
+        "wins": 1,
+        "losses": 1
+      }
+    },
+    "Scout": {
+      "4L1": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Savage": {
+      "4L5": {
+        "wins": 0,
+        "losses": 1
+      },
+      "8L9": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Hunter": {
+      "9L3": {
+        "wins": 0,
+        "losses": 1
+      },
+      "6L1": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Shadowblade": {
+      "7L6": {
+        "wins": 0,
+        "losses": 1
+      },
+      "10L1": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Blademaster": {
+      "8L6": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Valewalker": {
+      "6L2": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Hero": {
+      "8L6": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Vampiir": {
+      "6L5": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Runemaster": {
+      "4L7": {
+        "wins": 0,
+        "losses": 1
+      },
+      "7L0": {
+        "wins": 0,
+        "losses": 1
+      },
+      "5L8": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Thane": {
+      "6L4": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Shaman": {
+      "8L0": {
+        "wins": 0,
+        "losses": 1
+      },
+      "10L7": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Berserker": {
+      "10L7": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Heretic": {
+      "6L1": {
+        "wins": 1,
+        "losses": 1
+      }
+    },
+    "Cabalist": {
+      "6L6": {
+        "wins": 0,
+        "losses": 1
+      },
+      "2L1": {
+        "wins": 0,
+        "losses": 1
+      },
+      "2L3": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Reaver": {
+      "5L7": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Ranger": {
+      "6L1": {
+        "wins": 0,
+        "losses": 1
+      },
+      "5L7": {
+        "wins": 0,
+        "losses": 1
+      },
+      "6L8": {
+        "wins": 0,
+        "losses": 1
+      },
+      "5L4": {
+        "wins": 0,
+        "losses": 1
+      },
+      "5L3": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Nightshade": {
+      "5L6": {
+        "wins": 0,
+        "losses": 1
+      },
+      "3L2": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Mentalist": {
+      "7L0": {
+        "wins": 0,
+        "losses": 1
+      }
+    }
+  },
+  "2025-08-14": {
+    "Skald": {
+      "5L5": {
+        "wins": 1,
+        "losses": 0
+      },
+      "3L3": {
+        "wins": 0,
+        "losses": 1
+      },
+      "8L8": {
+        "wins": 0,
+        "losses": 1
+      },
+      "9L3": {
+        "wins": 0,
+        "losses": 1
+      },
+      "2L3": {
+        "wins": 1,
+        "losses": 0
+      },
+      "5L1": {
+        "wins": 1,
+        "losses": 0
+      },
+      "5L8": {
+        "wins": 1,
+        "losses": 0
+      },
+      "10L2": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Bonedancer": {
+      "5L4": {
+        "wins": 1,
+        "losses": 0
+      },
+      "4L4": {
+        "wins": 0,
+        "losses": 1
+      },
+      "2L5": {
+        "wins": 1,
+        "losses": 0
+      },
+      "4L3": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Valkyrie": {
+      "7L4": {
+        "wins": 1,
+        "losses": 0
+      },
+      "7L1": {
+        "wins": 0,
+        "losses": 1
+      },
+      "2L1": {
+        "wins": 0,
+        "losses": 1
+      },
+      "3L0": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Warrior": {
+      "4L3": {
+        "wins": 1,
+        "losses": 0
+      },
+      "5L9": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Shaman": {
+      "4L4": {
+        "wins": 2,
+        "losses": 0
+      },
+      "4L2": {
+        "wins": 0,
+        "losses": 1
+      },
+      "9L8": {
+        "wins": 0,
+        "losses": 1
+      },
+      "6L8": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Healer": {
+      "7L2": {
+        "wins": 1,
+        "losses": 0
+      },
+      "2L4": {
+        "wins": 0,
+        "losses": 1
+      },
+      "6L4": {
+        "wins": 0,
+        "losses": 1
+      },
+      "5L3": {
+        "wins": 2,
+        "losses": 0
+      },
+      "2L9": {
+        "wins": 1,
+        "losses": 0
+      },
+      "11L1": {
+        "wins": 1,
+        "losses": 0
+      },
+      "6L9": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Runemaster": {
+      "6L1": {
+        "wins": 1,
+        "losses": 0
+      },
+      "4L9": {
+        "wins": 0,
+        "losses": 1
+      },
+      "5L5": {
+        "wins": 0,
+        "losses": 1
+      },
+      "6L9": {
+        "wins": 0,
+        "losses": 1
+      },
+      "7L1": {
+        "wins": 1,
+        "losses": 0
+      },
+      "3L7": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Druid": {
+      "5L7": {
+        "wins": 0,
+        "losses": 1
+      },
+      "6L8": {
+        "wins": 0,
+        "losses": 1
+      },
+      "6L5": {
+        "wins": 2,
+        "losses": 0
+      },
+      "4L8": {
+        "wins": 1,
+        "losses": 0
+      },
+      "4L3": {
+        "wins": 1,
+        "losses": 0
+      },
+      "2L7": {
+        "wins": 0,
+        "losses": 1
+      },
+      "3L2": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Mentalist": {
+      "4L6": {
+        "wins": 0,
+        "losses": 1
+      },
+      "8L4": {
+        "wins": 0,
+        "losses": 1
+      },
+      "5L9": {
+        "wins": 1,
+        "losses": 0
+      },
+      "2L6": {
+        "wins": 0,
+        "losses": 1
+      },
+      "2L0": {
+        "wins": 0,
+        "losses": 1
+      },
+      "2L2": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Bard": {
+      "5L8": {
+        "wins": 0,
+        "losses": 1
+      },
+      "7L6": {
+        "wins": 0,
+        "losses": 1
+      },
+      "6L8": {
+        "wins": 1,
+        "losses": 0
+      },
+      "8L2": {
+        "wins": 1,
+        "losses": 0
+      },
+      "4L5": {
+        "wins": 1,
+        "losses": 0
+      },
+      "6L0": {
+        "wins": 1,
+        "losses": 0
+      },
+      "8L0": {
+        "wins": 1,
+        "losses": 0
+      },
+      "2L9": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Champion": {
+      "7L2": {
+        "wins": 0,
+        "losses": 1
+      },
+      "5L1": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Hero": {
+      "8L4": {
+        "wins": 0,
+        "losses": 1
+      },
+      "7L2": {
+        "wins": 0,
+        "losses": 1
+      },
+      "7L7": {
+        "wins": 1,
+        "losses": 0
+      },
+      "4L1": {
+        "wins": 1,
+        "losses": 0
+      },
+      "4L7": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Warden": {
+      "3L8": {
+        "wins": 0,
+        "losses": 1
+      },
+      "5L9": {
+        "wins": 2,
+        "losses": 0
+      },
+      "8L2": {
+        "wins": 1,
+        "losses": 0
+      },
+      "4L1": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Valewalker": {
+      "7L6": {
+        "wins": 1,
+        "losses": 0
+      },
+      "5L7": {
+        "wins": 1,
+        "losses": 0
+      },
+      "2L7": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Blademaster": {
+      "6L1": {
+        "wins": 1,
+        "losses": 0
+      },
+      "4L9": {
+        "wins": 1,
+        "losses": 0
+      },
+      "8L4": {
+        "wins": 1,
+        "losses": 0
+      },
+      "8L2": {
+        "wins": 1,
+        "losses": 0
+      },
+      "8L3": {
+        "wins": 1,
+        "losses": 0
+      },
+      "3L5": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Berserker": {
+      "6L4": {
+        "wins": 0,
+        "losses": 1
+      },
+      "4L7": {
+        "wins": 0,
+        "losses": 1
+      },
+      "4L2": {
+        "wins": 0,
+        "losses": 1
+      },
+      "5L3": {
+        "wins": 0,
+        "losses": 1
+      },
+      "2L6": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Savage": {
+      "5L9": {
+        "wins": 0,
+        "losses": 1
+      },
+      "6L2": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Hunter": {
+      "7L9": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Warlock": {
+      "5L2": {
+        "wins": 0,
+        "losses": 1
+      },
+      "6L2": {
+        "wins": 0,
+        "losses": 1
+      },
+      "2L8": {
+        "wins": 1,
+        "losses": 0
+      },
+      "3L1": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Enchanter": {
+      "4L9": {
+        "wins": 1,
+        "losses": 0
+      },
+      "6L1": {
+        "wins": 1,
+        "losses": 0
+      },
+      "3L1": {
+        "wins": 0,
+        "losses": 2
+      }
+    },
+    "Theurgist": {
+      "4L7": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Mercenary": {
+      "11L7": {
+        "wins": 0,
+        "losses": 1
+      },
+      "2L5": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Wizard": {
+      "9L4": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Cleric": {
+      "7L6": {
+        "wins": 0,
+        "losses": 1
+      },
+      "9L7": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Sorcerer": {
+      "8L7": {
+        "wins": 0,
+        "losses": 1
+      },
+      "2L9": {
+        "wins": 0,
+        "losses": 1
+      },
+      "4L3": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Heretic": {
+      "3L9": {
+        "wins": 0,
+        "losses": 1
+      },
+      "3L1": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Eldritch": {
+      "7L8": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Bainshee": {
+      "11L4": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Spiritmaster": {
+      "5L7": {
+        "wins": 0,
+        "losses": 1
+      },
+      "10L1": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Shadowblade": {
+      "5L9": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Vampiir": {
+      "3L4": {
+        "wins": 0,
+        "losses": 1
+      },
+      "2L3": {
+        "wins": 0,
+        "losses": 1
+      },
+      "2L5": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Thane": {
+      "8L4": {
+        "wins": 1,
+        "losses": 0
+      },
+      "7L5": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Minstrel": {
+      "8L0": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Friar": {
+      "5L6": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Scout": {
+      "2L3": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Reaver": {
+      "2L4": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Armsman": {
+      "2L9": {
+        "wins": 0,
+        "losses": 1
+      }
+    }
+  },
+  "2025-08-15": {
+    "Sorcerer": {
+      "6L6": {
+        "wins": 1,
+        "losses": 0
+      },
+      "8L4": {
+        "wins": 0,
+        "losses": 1
+      },
+      "4L1": {
+        "wins": 0,
+        "losses": 1
+      },
+      "10L0": {
+        "wins": 0,
+        "losses": 1
+      },
+      "6L9": {
+        "wins": 0,
+        "losses": 2
+      }
+    },
+    "Cleric": {
+      "8L2": {
+        "wins": 1,
+        "losses": 0
+      },
+      "5L9": {
+        "wins": 0,
+        "losses": 1
+      },
+      "3L0": {
+        "wins": 0,
+        "losses": 1
+      },
+      "8L5": {
+        "wins": 0,
+        "losses": 2
+      }
+    },
+    "Wizard": {
+      "4L4": {
+        "wins": 1,
+        "losses": 0
+      },
+      "5L3": {
+        "wins": 0,
+        "losses": 1
+      },
+      "8L7": {
+        "wins": 0,
+        "losses": 1
+      },
+      "6L1": {
+        "wins": 0,
+        "losses": 1
+      },
+      "9L5": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Occultist": {
+      "6L4": {
+        "wins": 1,
+        "losses": 0
+      },
+      "6L2": {
+        "wins": 0,
+        "losses": 2
+      }
+    },
+    "Minstrel": {
+      "5L9": {
+        "wins": 1,
+        "losses": 0
+      },
+      "9L0": {
+        "wins": 0,
+        "losses": 1
+      },
+      "4L8": {
+        "wins": 0,
+        "losses": 1
+      },
+      "3L4": {
+        "wins": 0,
+        "losses": 2
+      }
+    },
+    "Heretic": {
+      "7L3": {
+        "wins": 1,
+        "losses": 0
+      },
+      "6L3": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Friar": {
+      "7L9": {
+        "wins": 1,
+        "losses": 0
+      },
+      "2L8": {
+        "wins": 0,
+        "losses": 1
+      },
+      "7L6": {
+        "wins": 0,
+        "losses": 2
+      }
+    },
+    "Healer": {
+      "8L5": {
+        "wins": 0,
+        "losses": 1
+      },
+      "7L4": {
+        "wins": 0,
+        "losses": 1
+      },
+      "11L0": {
+        "wins": 3,
+        "losses": 0
+      },
+      "5L0": {
+        "wins": 1,
+        "losses": 0
+      },
+      "5L1": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Valkyrie": {
+      "6L5": {
+        "wins": 0,
+        "losses": 1
+      },
+      "5L1": {
+        "wins": 0,
+        "losses": 1
+      },
+      "8L6": {
+        "wins": 3,
+        "losses": 0
+      }
+    },
+    "Berserker": {
+      "9L1": {
+        "wins": 0,
+        "losses": 1
+      },
+      "10L7": {
+        "wins": 3,
+        "losses": 0
+      },
+      "8L0": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Savage": {
+      "5L3": {
+        "wins": 0,
+        "losses": 1
+      },
+      "6L5": {
+        "wins": 0,
+        "losses": 1
+      },
+      "10L1": {
+        "wins": 3,
+        "losses": 0
+      },
+      "7L3": {
+        "wins": 1,
+        "losses": 0
+      },
+      "3L0": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Skald": {
+      "4L5": {
+        "wins": 0,
+        "losses": 1
+      },
+      "4L3": {
+        "wins": 0,
+        "losses": 1
+      },
+      "9L2": {
+        "wins": 3,
+        "losses": 0
+      },
+      "9L5": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Spiritmaster": {
+      "3L7": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Shaman": {
+      "10L7": {
+        "wins": 3,
+        "losses": 0
+      },
+      "8L5": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Runemaster": {
+      "6L1": {
+        "wins": 3,
+        "losses": 0
+      }
+    },
+    "Cabalist": {
+      "4L1": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Theurgist": {
+      "3L9": {
+        "wins": 0,
+        "losses": 1
+      },
+      "5L5": {
+        "wins": 0,
+        "losses": 2
+      }
+    },
+    "Mercenary": {
+      "2L7": {
+        "wins": 0,
+        "losses": 1
+      },
+      "8L7": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Armsman": {
+      "6L8": {
+        "wins": 0,
+        "losses": 2
+      }
+    }
+  },
+  "2025-08-16": {
+    "Druid": {
+      "4L1": {
+        "wins": 1,
+        "losses": 0
+      },
+      "8L3": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Animist": {
+      "7L9": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Bard": {
+      "8L0": {
+        "wins": 1,
+        "losses": 0
+      },
+      "8L6": {
+        "wins": 1,
+        "losses": 0
+      },
+      "9L8": {
+        "wins": 1,
+        "losses": 0
+      },
+      "4L9": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Eldritch": {
+      "5L2": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Nightshade": {
+      "4L4": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Champion": {
+      "3L7": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Thane": {
+      "2L4": {
+        "wins": 0,
+        "losses": 1
+      },
+      "8L1": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Healer": {
+      "2L6": {
+        "wins": 0,
+        "losses": 1
+      },
+      "6L2": {
+        "wins": 0,
+        "losses": 1
+      },
+      "4L5": {
+        "wins": 0,
+        "losses": 1
+      },
+      "12L0": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Runemaster": {
+      "2L5": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Valkyrie": {
+      "2L4": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Spiritmaster": {
+      "4L1": {
+        "wins": 0,
+        "losses": 1
+      },
+      "4L3": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Warrior": {
+      "3L7": {
+        "wins": 0,
+        "losses": 1
+      },
+      "7L4": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Blademaster": {
+      "7L1": {
+        "wins": 1,
+        "losses": 0
+      },
+      "4L4": {
+        "wins": 1,
+        "losses": 0
+      },
+      "5L0": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Warden": {
+      "5L0": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Shaman": {
+      "10L3": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Skald": {
+      "11L3": {
+        "wins": 0,
+        "losses": 1
+      }
+    }
+  },
+  "2025-08-17": {
+    "Healer": {
+      "4L1": {
+        "wins": 1,
+        "losses": 0
+      },
+      "5L0": {
+        "wins": 0,
+        "losses": 1
+      },
+      "3L4": {
+        "wins": 0,
+        "losses": 1
+      },
+      "3L5": {
+        "wins": 1,
+        "losses": 0
+      },
+      "9L3": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Valkyrie": {
+      "3L1": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Skald": {
+      "4L0": {
+        "wins": 1,
+        "losses": 0
+      },
+      "4L3": {
+        "wins": 1,
+        "losses": 0
+      },
+      "3L6": {
+        "wins": 1,
+        "losses": 0
+      },
+      "2L9": {
+        "wins": 0,
+        "losses": 1
+      },
+      "10L9": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Spiritmaster": {
+      "4L3": {
+        "wins": 1,
+        "losses": 0
+      },
+      "2L4": {
+        "wins": 1,
+        "losses": 0
+      },
+      "7L9": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Runemaster": {
+      "4L3": {
+        "wins": 1,
+        "losses": 0
+      },
+      "2L7": {
+        "wins": 0,
+        "losses": 1
+      },
+      "2L8": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Savage": {
+      "4L9": {
+        "wins": 1,
+        "losses": 0
+      },
+      "2L5": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Warrior": {
+      "3L4": {
+        "wins": 1,
+        "losses": 0
+      },
+      "2L4": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Cleric": {
+      "5L2": {
+        "wins": 0,
+        "losses": 1
+      },
+      "5L6": {
+        "wins": 1,
+        "losses": 0
+      },
+      "4L1": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Minstrel": {
+      "4L1": {
+        "wins": 0,
+        "losses": 1
+      },
+      "5L0": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Friar": {
+      "3L8": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Sorcerer": {
+      "3L6": {
+        "wins": 0,
+        "losses": 1
+      },
+      "5L1": {
+        "wins": 1,
+        "losses": 0
+      },
+      "4L8": {
+        "wins": 1,
+        "losses": 0
+      },
+      "4L5": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Wizard": {
+      "6L3": {
+        "wins": 0,
+        "losses": 1
+      },
+      "4L8": {
+        "wins": 1,
+        "losses": 0
+      },
+      "2L8": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Heretic": {
+      "5L3": {
+        "wins": 0,
+        "losses": 1
+      },
+      "3L1": {
+        "wins": 0,
+        "losses": 1
+      },
+      "6L6": {
+        "wins": 0,
+        "losses": 1
+      },
+      "3L2": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Mercenary": {
+      "3L8": {
+        "wins": 1,
+        "losses": 0
+      },
+      "2L1": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Paladin": {
+      "3L2": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Scout": {
+      "3L1": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Reaver": {
+      "6L0": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Shaman": {
+      "2L4": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Hunter": {
+      "2L6": {
+        "wins": 0,
+        "losses": 1
+      },
+      "2L7": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Warlock": {
+      "3L0": {
+        "wins": 1,
+        "losses": 0
+      },
+      "6L0": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Berserker": {
+      "2L1": {
+        "wins": 1,
+        "losses": 0
+      },
+      "8L0": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Valewalker": {
+      "2L9": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Mentalist": {
+      "2L7": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Bard": {
+      "5L0": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Hero": {
+      "4L4": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Ranger": {
+      "2L8": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Champion": {
+      "2L2": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Enchanter": {
+      "2L3": {
+        "wins": 0,
+        "losses": 1
+      }
+    }
+  },
+  "2025-08-18": {
+    "Minstrel": {
+      "3L1": {
+        "wins": 1,
+        "losses": 0
+      },
+      "5L0": {
+        "wins": 1,
+        "losses": 0
+      },
+      "5L1": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Sorcerer": {
+      "6L0": {
+        "wins": 1,
+        "losses": 0
+      },
+      "4L8": {
+        "wins": 1,
+        "losses": 0
+      },
+      "3L4": {
+        "wins": 2,
+        "losses": 0
+      }
+    },
+    "Wizard": {
+      "3L1": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Reaver": {
+      "4L1": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Friar": {
+      "3L6": {
+        "wins": 1,
+        "losses": 0
+      },
+      "6L3": {
+        "wins": 1,
+        "losses": 0
+      },
+      "6L4": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Heretic": {
+      "4L6": {
+        "wins": 1,
+        "losses": 0
+      },
+      "4L9": {
+        "wins": 2,
+        "losses": 0
+      }
+    },
+    "Hunter": {
+      "5L0": {
+        "wins": 0,
+        "losses": 1
+      },
+      "4L6": {
+        "wins": 0,
+        "losses": 1
+      },
+      "4L1": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Savage": {
+      "8L6": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Healer": {
+      "7L6": {
+        "wins": 0,
+        "losses": 2
+      }
+    },
+    "Warlock": {
+      "2L7": {
+        "wins": 0,
+        "losses": 1
+      },
+      "3L1": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Shaman": {
+      "5L5": {
+        "wins": 0,
+        "losses": 1
+      },
+      "7L2": {
+        "wins": 0,
+        "losses": 1
+      },
+      "3L2": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Paladin": {
+      "5L8": {
+        "wins": 2,
+        "losses": 0
+      },
+      "4L1": {
+        "wins": 2,
+        "losses": 0
+      }
+    },
+    "Armsman": {
+      "3L5": {
+        "wins": 2,
+        "losses": 0
+      }
+    },
+    "Spiritmaster": {
+      "5L7": {
+        "wins": 0,
+        "losses": 1
+      },
+      "3L4": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Warrior": {
+      "2L4": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Runemaster": {
+      "2L5": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Skald": {
+      "3L5": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Champion": {
+      "5L7": {
+        "wins": 0,
+        "losses": 1
+      },
+      "2L6": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Druid": {
+      "4L0": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Mentalist": {
+      "2L8": {
+        "wins": 0,
+        "losses": 1
+      },
+      "2L4": {
+        "wins": 0,
+        "losses": 1
+      },
+      "5L6": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Vampiir": {
+      "2L4": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Warden": {
+      "2L6": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Bard": {
+      "3L5": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Eldritch": {
+      "4L3": {
+        "wins": 0,
+        "losses": 1
+      }
+    }
+  },
+  "2025-08-19": {
+    "Warden": {
+      "6L5": {
+        "wins": 1,
+        "losses": 0
+      },
+      "8L2": {
+        "wins": 1,
+        "losses": 0
+      },
+      "3L1": {
+        "wins": 0,
+        "losses": 1
+      },
+      "5L4": {
+        "wins": 0,
+        "losses": 1
+      },
+      "3L9": {
+        "wins": 0,
+        "losses": 1
+      },
+      "5L9": {
+        "wins": 0,
+        "losses": 2
+      },
+      "10L5": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Bard": {
+      "5L8": {
+        "wins": 1,
+        "losses": 1
+      },
+      "11L0": {
+        "wins": 1,
+        "losses": 0
+      },
+      "8L2": {
+        "wins": 1,
+        "losses": 0
+      },
+      "5L0": {
+        "wins": 1,
+        "losses": 0
+      },
+      "4L7": {
+        "wins": 0,
+        "losses": 1
+      },
+      "2L8": {
+        "wins": 0,
+        "losses": 1
+      },
+      "5L5": {
+        "wins": 0,
+        "losses": 1
+      },
+      "11L8": {
+        "wins": 0,
+        "losses": 1
+      },
+      "3L4": {
+        "wins": 0,
+        "losses": 1
+      },
+      "6L0": {
+        "wins": 0,
+        "losses": 1
+      },
+      "6L2": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Valewalker": {
+      "5L6": {
+        "wins": 1,
+        "losses": 0
+      },
+      "3L3": {
+        "wins": 1,
+        "losses": 0
+      },
+      "2L6": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Blademaster": {
+      "3L4": {
+        "wins": 1,
+        "losses": 0
+      },
+      "8L3": {
+        "wins": 1,
+        "losses": 1
+      },
+      "4L4": {
+        "wins": 1,
+        "losses": 1
+      },
+      "6L6": {
+        "wins": 0,
+        "losses": 1
+      },
+      "3L7": {
+        "wins": 0,
+        "losses": 1
+      },
+      "9L1": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Druid": {
+      "5L9": {
+        "wins": 1,
+        "losses": 0
+      },
+      "5L2": {
+        "wins": 1,
+        "losses": 0
+      },
+      "6L0": {
+        "wins": 0,
+        "losses": 1
+      },
+      "5L6": {
+        "wins": 1,
+        "losses": 0
+      },
+      "4L3": {
+        "wins": 1,
+        "losses": 0
+      },
+      "5L4": {
+        "wins": 0,
+        "losses": 1
+      },
+      "11L7": {
+        "wins": 0,
+        "losses": 2
+      },
+      "7L5": {
+        "wins": 0,
+        "losses": 1
+      },
+      "8L8": {
+        "wins": 0,
+        "losses": 1
+      },
+      "4L7": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Cabalist": {
+      "4L6": {
+        "wins": 0,
+        "losses": 1
+      },
+      "8L3": {
+        "wins": 1,
+        "losses": 0
+      },
+      "9L4": {
+        "wins": 1,
+        "losses": 0
+      },
+      "6L8": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Sorcerer": {
+      "8L7": {
+        "wins": 0,
+        "losses": 1
+      },
+      "4L0": {
+        "wins": 0,
+        "losses": 1
+      },
+      "9L3": {
+        "wins": 1,
+        "losses": 0
+      },
+      "7L8": {
+        "wins": 1,
+        "losses": 0
+      },
+      "3L9": {
+        "wins": 0,
+        "losses": 1
+      },
+      "4L3": {
+        "wins": 1,
+        "losses": 0
+      },
+      "11L2": {
+        "wins": 1,
+        "losses": 0
+      },
+      "4L6": {
+        "wins": 1,
+        "losses": 0
+      },
+      "5L1": {
+        "wins": 2,
+        "losses": 0
+      },
+      "4L7": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Wizard": {
+      "8L7": {
+        "wins": 0,
+        "losses": 1
+      },
+      "5L0": {
+        "wins": 2,
+        "losses": 0
+      },
+      "3L2": {
+        "wins": 1,
+        "losses": 0
+      },
+      "3L4": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Cleric": {
+      "2L5": {
+        "wins": 0,
+        "losses": 1
+      },
+      "4L0": {
+        "wins": 0,
+        "losses": 1
+      },
+      "7L6": {
+        "wins": 1,
+        "losses": 0
+      },
+      "3L2": {
+        "wins": 0,
+        "losses": 1
+      },
+      "2L0": {
+        "wins": 1,
+        "losses": 0
+      },
+      "10L6": {
+        "wins": 1,
+        "losses": 0
+      },
+      "11L3": {
+        "wins": 1,
+        "losses": 0
+      },
+      "5L6": {
+        "wins": 1,
+        "losses": 0
+      },
+      "4L3": {
+        "wins": 1,
+        "losses": 0
+      },
+      "5L7": {
+        "wins": 1,
+        "losses": 0
+      },
+      "4L4": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Occultist": {
+      "7L7": {
+        "wins": 0,
+        "losses": 1
+      },
+      "3L0": {
+        "wins": 0,
+        "losses": 1
+      },
+      "3L6": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Scout": {
+      "3L0": {
+        "wins": 0,
+        "losses": 1
+      },
+      "9L3": {
+        "wins": 0,
+        "losses": 1
+      },
+      "11L0": {
+        "wins": 0,
+        "losses": 1
+      },
+      "6L2": {
+        "wins": 0,
+        "losses": 1
+      },
+      "5L9": {
+        "wins": 0,
+        "losses": 1
+      },
+      "7L6": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Paladin": {
+      "6L0": {
+        "wins": 0,
+        "losses": 1
+      },
+      "5L6": {
+        "wins": 0,
+        "losses": 1
+      },
+      "3L3": {
+        "wins": 0,
+        "losses": 1
+      },
+      "3L8": {
+        "wins": 1,
+        "losses": 0
+      },
+      "2L5": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Minstrel": {
+      "8L7": {
+        "wins": 0,
+        "losses": 1
+      },
+      "2L2": {
+        "wins": 0,
+        "losses": 1
+      },
+      "5L6": {
+        "wins": 1,
+        "losses": 0
+      },
+      "4L4": {
+        "wins": 1,
+        "losses": 0
+      },
+      "5L1": {
+        "wins": 1,
+        "losses": 0
+      },
+      "5L2": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Heretic": {
+      "5L5": {
+        "wins": 0,
+        "losses": 1
+      },
+      "4L0": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Enchanter": {
+      "10L6": {
+        "wins": 1,
+        "losses": 0
+      },
+      "3L4": {
+        "wins": 0,
+        "losses": 3
+      },
+      "3L0": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Mentalist": {
+      "6L7": {
+        "wins": 1,
+        "losses": 0
+      },
+      "8L6": {
+        "wins": 0,
+        "losses": 1
+      },
+      "6L1": {
+        "wins": 0,
+        "losses": 1
+      },
+      "4L7": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Hero": {
+      "4L4": {
+        "wins": 1,
+        "losses": 0
+      },
+      "2L7": {
+        "wins": 0,
+        "losses": 1
+      },
+      "7L5": {
+        "wins": 0,
+        "losses": 1
+      },
+      "5L9": {
+        "wins": 0,
+        "losses": 1
+      },
+      "2L3": {
+        "wins": 0,
+        "losses": 1
+      },
+      "12L0": {
+        "wins": 0,
+        "losses": 1
+      },
+      "5L3": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Healer": {
+      "4L1": {
+        "wins": 0,
+        "losses": 1
+      },
+      "5L4": {
+        "wins": 0,
+        "losses": 1
+      },
+      "7L0": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Bonedancer": {
+      "2L9": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Thane": {
+      "3L0": {
+        "wins": 0,
+        "losses": 1
+      },
+      "5L1": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Warrior": {
+      "7L0": {
+        "wins": 0,
+        "losses": 1
+      },
+      "2L6": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Skald": {
+      "2L5": {
+        "wins": 0,
+        "losses": 1
+      },
+      "5L2": {
+        "wins": 1,
+        "losses": 0
+      },
+      "3L7": {
+        "wins": 1,
+        "losses": 0
+      },
+      "7L3": {
+        "wins": 1,
+        "losses": 0
+      },
+      "6L2": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Hunter": {
+      "2L5": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Shaman": {
+      "3L5": {
+        "wins": 0,
+        "losses": 1
+      },
+      "6L2": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Berserker": {
+      "2L4": {
+        "wins": 0,
+        "losses": 1
+      },
+      "5L7": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Friar": {
+      "7L1": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Theurgist": {
+      "6L2": {
+        "wins": 1,
+        "losses": 0
+      },
+      "6L3": {
+        "wins": 1,
+        "losses": 0
+      },
+      "9L6": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Eldritch": {
+      "4L8": {
+        "wins": 1,
+        "losses": 0
+      },
+      "3L2": {
+        "wins": 1,
+        "losses": 0
+      },
+      "3L8": {
+        "wins": 0,
+        "losses": 1
+      },
+      "2L7": {
+        "wins": 0,
+        "losses": 1
+      },
+      "11L3": {
+        "wins": 0,
+        "losses": 1
+      },
+      "5L1": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Vampiir": {
+      "3L2": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Necromancer": {
+      "7L0": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Warlock": {
+      "9L8": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Valkyrie": {
+      "5L1": {
+        "wins": 1,
+        "losses": 0
+      },
+      "6L7": {
+        "wins": 1,
+        "losses": 0
+      },
+      "6L9": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Animist": {
+      "5L2": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Champion": {
+      "2L0": {
+        "wins": 0,
+        "losses": 1
+      },
+      "5L3": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Spiritmaster": {
+      "4L4": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Savage": {
+      "2L8": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Infiltrator": {
+      "5L8": {
+        "wins": 0,
+        "losses": 1
+      }
+    }
+  },
+  "2025-08-20": {
+    "Wizard": {
+      "5L1": {
+        "wins": 1,
+        "losses": 0
+      },
+      "3L8": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Sorcerer": {
+      "5L2": {
+        "wins": 1,
+        "losses": 0
+      },
+      "4L9": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Minstrel": {
+      "5L2": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Heretic": {
+      "3L1": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Cleric": {
+      "4L6": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Bard": {
+      "5L5": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Blademaster": {
+      "5L0": {
+        "wins": 0,
+        "losses": 1
+      },
+      "5L4": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Valewalker": {
+      "7L3": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Nightshade": {
+      "3L0": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Bainshee": {
+      "4L9": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Druid": {
+      "7L5": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Warden": {
+      "5L4": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Eldritch": {
+      "5L6": {
+        "wins": 0,
+        "losses": 1
+      }
+    }
+  },
+  "2025-08-21": {
+    "Shadowblade": {
+      "2L2": {
+        "wins": 1,
+        "losses": 0
+      },
+      "3L6": {
+        "wins": 1,
+        "losses": 0
+      },
+      "3L7": {
+        "wins": 1,
+        "losses": 0
+      },
+      "2L5": {
+        "wins": 1,
+        "losses": 0
+      },
+      "5L1": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Hunter": {
+      "5L2": {
+        "wins": 1,
+        "losses": 0
+      },
+      "3L8": {
+        "wins": 1,
+        "losses": 0
+      },
+      "2L1": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Scout": {
+      "3L0": {
+        "wins": 0,
+        "losses": 1
+      },
+      "3L5": {
+        "wins": 0,
+        "losses": 1
+      },
+      "4L3": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Minstrel": {
+      "3L4": {
+        "wins": 0,
+        "losses": 1
+      },
+      "4L5": {
+        "wins": 1,
+        "losses": 0
+      },
+      "2L8": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Friar": {
+      "2L6": {
+        "wins": 0,
+        "losses": 1
+      },
+      "3L3": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Infiltrator": {
+      "2L1": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Armsman": {
+      "2L5": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Cabalist": {
+      "1L9": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Cleric": {
+      "2L2": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Bainshee": {
+      "3L7": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Hero": {
+      "2L0": {
+        "wins": 0,
+        "losses": 1
+      },
+      "2L8": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Warden": {
+      "2L8": {
+        "wins": 0,
+        "losses": 1
+      },
+      "2L5": {
+        "wins": 0,
+        "losses": 1
+      },
+      "5L4": {
+        "wins": 0,
+        "losses": 2
+      }
+    },
+    "Bard": {
+      "3L1": {
+        "wins": 0,
+        "losses": 1
+      },
+      "4L4": {
+        "wins": 0,
+        "losses": 1
+      },
+      "5L5": {
+        "wins": 0,
+        "losses": 1
+      },
+      "9L9": {
+        "wins": 0,
+        "losses": 2
+      }
+    },
+    "Champion": {
+      "3L0": {
+        "wins": 0,
+        "losses": 1
+      },
+      "6L4": {
+        "wins": 0,
+        "losses": 2
+      }
+    },
+    "Animist": {
+      "2L0": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Spiritmaster": {
+      "4L6": {
+        "wins": 1,
+        "losses": 0
+      },
+      "5L4": {
+        "wins": 1,
+        "losses": 0
+      },
+      "5L1": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Valkyrie": {
+      "4L2": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Healer": {
+      "2L5": {
+        "wins": 1,
+        "losses": 0
+      },
+      "7L4": {
+        "wins": 1,
+        "losses": 0
+      },
+      "10L4": {
+        "wins": 1,
+        "losses": 0
+      },
+      "9L7": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Berserker": {
+      "2L0": {
+        "wins": 1,
+        "losses": 0
+      },
+      "8L2": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Thane": {
+      "5L0": {
+        "wins": 1,
+        "losses": 0
+      },
+      "6L5": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Skald": {
+      "5L5": {
+        "wins": 1,
+        "losses": 0
+      },
+      "5L6": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Blademaster": {
+      "3L3": {
+        "wins": 0,
+        "losses": 1
+      },
+      "4L8": {
+        "wins": 0,
+        "losses": 2
+      },
+      "7L4": {
+        "wins": 0,
+        "losses": 2
+      },
+      "3L2": {
+        "wins": 0,
+        "losses": 2
+      }
+    },
+    "Valewalker": {
+      "2L2": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Vampiir": {
+      "2L2": {
+        "wins": 0,
+        "losses": 1
+      },
+      "3L4": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Ranger": {
+      "4L1": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Druid": {
+      "2L4": {
+        "wins": 0,
+        "losses": 1
+      },
+      "8L4": {
+        "wins": 0,
+        "losses": 2
+      }
+    },
+    "Shaman": {
+      "11L5": {
+        "wins": 1,
+        "losses": 0
+      },
+      "8L7": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Runemaster": {
+      "3L0": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Bonedancer": {
+      "3L6": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Savage": {
+      "8L7": {
+        "wins": 1,
+        "losses": 0
+      }
+    }
+  },
+  "2025-08-22": {
+    "Blademaster": {
+      "5L1": {
+        "wins": 1,
+        "losses": 0
+      },
+      "5L6": {
+        "wins": 1,
+        "losses": 0
+      },
+      "5L0": {
+        "wins": 1,
+        "losses": 0
+      },
+      "10L5": {
+        "wins": 0,
+        "losses": 3
+      },
+      "8L8": {
+        "wins": 2,
+        "losses": 0
+      },
+      "5L2": {
+        "wins": 0,
+        "losses": 2
+      },
+      "3L5": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Druid": {
+      "5L1": {
+        "wins": 1,
+        "losses": 0
+      },
+      "4L7": {
+        "wins": 1,
+        "losses": 3
+      },
+      "7L3": {
+        "wins": 2,
+        "losses": 0
+      },
+      "7L1": {
+        "wins": 1,
+        "losses": 0
+      },
+      "5L8": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Bard": {
+      "7L3": {
+        "wins": 1,
+        "losses": 0
+      },
+      "4L1": {
+        "wins": 1,
+        "losses": 0
+      },
+      "9L9": {
+        "wins": 0,
+        "losses": 3
+      },
+      "11L8": {
+        "wins": 0,
+        "losses": 1
+      },
+      "5L9": {
+        "wins": 2,
+        "losses": 0
+      },
+      "8L0": {
+        "wins": 2,
+        "losses": 0
+      },
+      "7L4": {
+        "wins": 1,
+        "losses": 0
+      },
+      "5L8": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Warden": {
+      "9L6": {
+        "wins": 1,
+        "losses": 0
+      },
+      "2L5": {
+        "wins": 1,
+        "losses": 0
+      },
+      "8L2": {
+        "wins": 1,
+        "losses": 3
+      },
+      "7L8": {
+        "wins": 2,
+        "losses": 0
+      },
+      "11L5": {
+        "wins": 1,
+        "losses": 0
+      },
+      "8L0": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Mentalist": {
+      "5L3": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Eldritch": {
+      "5L9": {
+        "wins": 1,
+        "losses": 0
+      },
+      "4L8": {
+        "wins": 1,
+        "losses": 0
+      },
+      "10L4": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Healer": {
+      "4L8": {
+        "wins": 0,
+        "losses": 1
+      },
+      "5L2": {
+        "wins": 0,
+        "losses": 2
+      },
+      "4L1": {
+        "wins": 0,
+        "losses": 1
+      },
+      "2L9": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Thane": {
+      "5L2": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Valkyrie": {
+      "4L3": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Runemaster": {
+      "5L1": {
+        "wins": 0,
+        "losses": 1
+      },
+      "6L5": {
+        "wins": 0,
+        "losses": 2
+      },
+      "8L6": {
+        "wins": 0,
+        "losses": 2
+      }
+    },
+    "Savage": {
+      "5L0": {
+        "wins": 0,
+        "losses": 1
+      },
+      "2L8": {
+        "wins": 0,
+        "losses": 2
+      }
+    },
+    "Berserker": {
+      "3L3": {
+        "wins": 0,
+        "losses": 1
+      },
+      "4L0": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Skald": {
+      "4L3": {
+        "wins": 0,
+        "losses": 1
+      },
+      "2L7": {
+        "wins": 0,
+        "losses": 2
+      },
+      "5L3": {
+        "wins": 0,
+        "losses": 1
+      },
+      "5L5": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Valewalker": {
+      "6L0": {
+        "wins": 1,
+        "losses": 0
+      },
+      "6L5": {
+        "wins": 2,
+        "losses": 0
+      },
+      "3L7": {
+        "wins": 0,
+        "losses": 2
+      },
+      "6L1": {
+        "wins": 1,
+        "losses": 0
+      },
+      "3L5": {
+        "wins": 1,
+        "losses": 0
+      },
+      "6L9": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Ranger": {
+      "3L0": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Heretic": {
+      "5L6": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Minstrel": {
+      "5L5": {
+        "wins": 0,
+        "losses": 1
+      },
+      "8L0": {
+        "wins": 0,
+        "losses": 1
+      },
+      "7L0": {
+        "wins": 1,
+        "losses": 0
+      },
+      "9L7": {
+        "wins": 2,
+        "losses": 0
+      },
+      "4L5": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Theurgist": {
+      "4L1": {
+        "wins": 0,
+        "losses": 1
+      },
+      "6L9": {
+        "wins": 2,
+        "losses": 0
+      }
+    },
+    "Mercenary": {
+      "2L5": {
+        "wins": 0,
+        "losses": 1
+      },
+      "4L2": {
+        "wins": 1,
+        "losses": 0
+      },
+      "6L4": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Occultist": {
+      "7L8": {
+        "wins": 0,
+        "losses": 1
+      },
+      "5L3": {
+        "wins": 2,
+        "losses": 0
+      },
+      "4L8": {
+        "wins": 0,
+        "losses": 1
+      },
+      "6L5": {
+        "wins": 0,
+        "losses": 1
+      },
+      "10L6": {
+        "wins": 0,
+        "losses": 1
+      },
+      "6L0": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Reaver": {
+      "2L3": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Cleric": {
+      "7L5": {
+        "wins": 0,
+        "losses": 1
+      },
+      "4L7": {
+        "wins": 1,
+        "losses": 0
+      },
+      "7L7": {
+        "wins": 2,
+        "losses": 0
+      },
+      "5L7": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Armsman": {
+      "2L9": {
+        "wins": 0,
+        "losses": 1
+      },
+      "5L7": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Paladin": {
+      "6L1": {
+        "wins": 1,
+        "losses": 0
+      },
+      "10L1": {
+        "wins": 2,
+        "losses": 0
+      }
+    },
+    "Necromancer": {
+      "6L7": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Friar": {
+      "4L6": {
+        "wins": 1,
+        "losses": 0
+      },
+      "7L1": {
+        "wins": 2,
+        "losses": 0
+      },
+      "4L8": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Hero": {
+      "10L1": {
+        "wins": 0,
+        "losses": 1
+      },
+      "7L2": {
+        "wins": 0,
+        "losses": 2
+      },
+      "3L4": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Champion": {
+      "7L5": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Vampiir": {
+      "6L7": {
+        "wins": 2,
+        "losses": 0
+      }
+    },
+    "Sorcerer": {
+      "6L5": {
+        "wins": 2,
+        "losses": 0
+      }
+    },
+    "Shaman": {
+      "6L0": {
+        "wins": 0,
+        "losses": 2
+      },
+      "4L3": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Warrior": {
+      "5L3": {
+        "wins": 0,
+        "losses": 2
+      }
+    },
+    "Animist": {
+      "4L3": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Wizard": {
+      "8L8": {
+        "wins": 0,
+        "losses": 1
+      },
+      "5L7": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Cabalist": {
+      "4L7": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Bonedancer": {
+      "4L7": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Hunter": {
+      "2L7": {
+        "wins": 0,
+        "losses": 1
+      },
+      "2L0": {
+        "wins": 0,
+        "losses": 1
+      }
+    }
+  },
+  "2025-08-23": {
+    "Eldritch": {
+      "6L7": {
+        "wins": 1,
+        "losses": 0
+      },
+      "11L2": {
+        "wins": 1,
+        "losses": 0
+      },
+      "3L2": {
+        "wins": 1,
+        "losses": 1
+      }
+    },
+    "Enchanter": {
+      "11L2": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Bard": {
+      "11L3": {
+        "wins": 2,
+        "losses": 0
+      },
+      "4L1": {
+        "wins": 1,
+        "losses": 1
+      }
+    },
+    "Druid": {
+      "11L4": {
+        "wins": 1,
+        "losses": 0
+      },
+      "4L3": {
+        "wins": 1,
+        "losses": 1
+      }
+    },
+    "Bainshee": {
+      "6L2": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Runemaster": {
+      "2L6": {
+        "wins": 0,
+        "losses": 1
+      },
+      "4L2": {
+        "wins": 1,
+        "losses": 0
+      },
+      "3L0": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Valkyrie": {
+      "6L0": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Skald": {
+      "3L1": {
+        "wins": 0,
+        "losses": 1
+      },
+      "3L0": {
+        "wins": 0,
+        "losses": 1
+      },
+      "9L6": {
+        "wins": 1,
+        "losses": 0
+      },
+      "4L9": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Berserker": {
+      "3L5": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Savage": {
+      "6L4": {
+        "wins": 0,
+        "losses": 1
+      },
+      "4L2": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Shaman": {
+      "3L4": {
+        "wins": 0,
+        "losses": 1
+      },
+      "8L8": {
+        "wins": 1,
+        "losses": 0
+      },
+      "4L1": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Spiritmaster": {
+      "10L1": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Healer": {
+      "11L0": {
+        "wins": 1,
+        "losses": 0
+      },
+      "11L1": {
+        "wins": 1,
+        "losses": 0
+      },
+      "3L9": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Bonedancer": {
+      "6L7": {
+        "wins": 1,
+        "losses": 0
+      },
+      "4L4": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Warden": {
+      "4L2": {
+        "wins": 1,
+        "losses": 1
+      }
+    },
+    "Blademaster": {
+      "3L6": {
+        "wins": 0,
+        "losses": 1
+      },
+      "3L9": {
+        "wins": 1,
+        "losses": 1
+      },
+      "3L7": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Valewalker": {
+      "4L0": {
+        "wins": 1,
+        "losses": 1
+      }
+    },
+    "Friar": {
+      "3L9": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Occultist": {
+      "2L9": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Paladin": {
+      "3L6": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Minstrel": {
+      "3L9": {
+        "wins": 0,
+        "losses": 1
+      },
+      "5L5": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Sorcerer": {
+      "2L3": {
+        "wins": 0,
+        "losses": 1
+      },
+      "5L4": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Reaver": {
+      "6L1": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Cleric": {
+      "4L6": {
+        "wins": 0,
+        "losses": 1
+      },
+      "5L8": {
+        "wins": 1,
+        "losses": 0
+      },
+      "3L0": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Theurgist": {
+      "3L1": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Heretic": {
+      "3L8": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Wizard": {
+      "5L4": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Warlock": {
+      "3L8": {
+        "wins": 0,
+        "losses": 1
+      }
+    }
+  },
+  "2025-08-24": {
+    "Eldritch": {
+      "9L6": {
+        "wins": 1,
+        "losses": 0
+      },
+      "8L5": {
+        "wins": 1,
+        "losses": 0
+      },
+      "8L7": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Bard": {
+      "9L2": {
+        "wins": 1,
+        "losses": 0
+      },
+      "6L2": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Bainshee": {
+      "2L3": {
+        "wins": 1,
+        "losses": 0
+      },
+      "3L8": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Warden": {
+      "4L2": {
+        "wins": 1,
+        "losses": 0
+      },
+      "8L1": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Blademaster": {
+      "9L0": {
+        "wins": 1,
+        "losses": 0
+      },
+      "9L4": {
+        "wins": 0,
+        "losses": 1
+      },
+      "10L6": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Warlock": {
+      "4L0": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Savage": {
+      "8L8": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Healer": {
+      "7L1": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Valkyrie": {
+      "5L5": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Bonedancer": {
+      "6L8": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Thane": {
+      "7L9": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Shaman": {
+      "8L1": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Skald": {
+      "5L2": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Heretic": {
+      "5L0": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Sorcerer": {
+      "5L7": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Cleric": {
+      "5L2": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Mercenary": {
+      "5L1": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Occultist": {
+      "5L5": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Paladin": {
+      "5L7": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Minstrel": {
+      "9L0": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Ranger": {
+      "3L3": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Druid": {
+      "5L0": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Enchanter": {
+      "2L9": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Valewalker": {
+      "3L1": {
+        "wins": 0,
+        "losses": 1
+      }
+    }
+  },
+  "2025-08-25": {
+    "Cleric": {
+      "5L7": {
+        "wins": 4,
+        "losses": 0
+      },
+      "11L3": {
+        "wins": 1,
+        "losses": 0
+      },
+      "10L6": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Minstrel": {
+      "5L1": {
+        "wins": 4,
+        "losses": 0
+      },
+      "8L0": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Theurgist": {
+      "10L7": {
+        "wins": 4,
+        "losses": 0
+      },
+      "9L7": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Mercenary": {
+      "5L2": {
+        "wins": 4,
+        "losses": 0
+      },
+      "4L6": {
+        "wins": 4,
+        "losses": 0
+      }
+    },
+    "Sorcerer": {
+      "7L3": {
+        "wins": 4,
+        "losses": 0
+      },
+      "7L8": {
+        "wins": 1,
+        "losses": 0
+      },
+      "10L2": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Paladin": {
+      "9L5": {
+        "wins": 4,
+        "losses": 0
+      }
+    },
+    "Bonedancer": {
+      "3L9": {
+        "wins": 0,
+        "losses": 1
+      },
+      "5L3": {
+        "wins": 0,
+        "losses": 1
+      },
+      "2L3": {
+        "wins": 0,
+        "losses": 1
+      },
+      "4L5": {
+        "wins": 2,
+        "losses": 1
+      },
+      "9L7": {
+        "wins": 0,
+        "losses": 1
+      },
+      "2L6": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Healer": {
+      "5L1": {
+        "wins": 0,
+        "losses": 4
+      },
+      "3L9": {
+        "wins": 0,
+        "losses": 1
+      },
+      "3L8": {
+        "wins": 0,
+        "losses": 2
+      },
+      "6L4": {
+        "wins": 0,
+        "losses": 1
+      },
+      "6L0": {
+        "wins": 0,
+        "losses": 2
+      },
+      "4L8": {
+        "wins": 1,
+        "losses": 2
+      },
+      "4L9": {
+        "wins": 1,
+        "losses": 1
+      },
+      "12L2": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Shaman": {
+      "10L0": {
+        "wins": 0,
+        "losses": 1
+      },
+      "6L1": {
+        "wins": 2,
+        "losses": 3
+      },
+      "4L1": {
+        "wins": 0,
+        "losses": 2
+      },
+      "4L9": {
+        "wins": 2,
+        "losses": 3
+      }
+    },
+    "Skald": {
+      "2L3": {
+        "wins": 0,
+        "losses": 1
+      },
+      "4L8": {
+        "wins": 0,
+        "losses": 2
+      },
+      "9L1": {
+        "wins": 0,
+        "losses": 1
+      },
+      "7L5": {
+        "wins": 2,
+        "losses": 1
+      },
+      "4L0": {
+        "wins": 2,
+        "losses": 3
+      }
+    },
+    "Valkyrie": {
+      "4L6": {
+        "wins": 0,
+        "losses": 4
+      },
+      "2L4": {
+        "wins": 2,
+        "losses": 1
+      }
+    },
+    "Runemaster": {
+      "5L3": {
+        "wins": 0,
+        "losses": 1
+      },
+      "5L4": {
+        "wins": 0,
+        "losses": 3
+      },
+      "3L1": {
+        "wins": 0,
+        "losses": 1
+      },
+      "6L6": {
+        "wins": 0,
+        "losses": 2
+      },
+      "8L7": {
+        "wins": 0,
+        "losses": 2
+      },
+      "2L6": {
+        "wins": 1,
+        "losses": 2
+      },
+      "3L7": {
+        "wins": 1,
+        "losses": 2
+      },
+      "4L6": {
+        "wins": 1,
+        "losses": 2
+      },
+      "2L7": {
+        "wins": 0,
+        "losses": 1
+      },
+      "3L8": {
+        "wins": 1,
+        "losses": 1
+      },
+      "4L7": {
+        "wins": 1,
+        "losses": 1
+      },
+      "2L8": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Warlock": {
+      "5L2": {
+        "wins": 0,
+        "losses": 4
+      },
+      "2L3": {
+        "wins": 0,
+        "losses": 1
+      },
+      "3L4": {
+        "wins": 0,
+        "losses": 1
+      },
+      "5L0": {
+        "wins": 2,
+        "losses": 1
+      },
+      "4L1": {
+        "wins": 1,
+        "losses": 2
+      },
+      "4L2": {
+        "wins": 1,
+        "losses": 1
+      }
+    },
+    "Berserker": {
+      "3L2": {
+        "wins": 0,
+        "losses": 4
+      },
+      "4L0": {
+        "wins": 0,
+        "losses": 4
+      },
+      "8L0": {
+        "wins": 0,
+        "losses": 1
+      },
+      "4L5": {
+        "wins": 0,
+        "losses": 1
+      },
+      "9L1": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Eldritch": {
+      "8L4": {
+        "wins": 1,
+        "losses": 0
+      },
+      "8L1": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Nightshade": {
+      "9L7": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Enchanter": {
+      "4L0": {
+        "wins": 1,
+        "losses": 0
+      },
+      "4L7": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Druid": {
+      "7L3": {
+        "wins": 1,
+        "losses": 0
+      },
+      "9L3": {
+        "wins": 1,
+        "losses": 0
+      },
+      "3L3": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Ranger": {
+      "3L7": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Bard": {
+      "10L5": {
+        "wins": 1,
+        "losses": 0
+      },
+      "8L7": {
+        "wins": 1,
+        "losses": 0
+      },
+      "8L8": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Bainshee": {
+      "6L6": {
+        "wins": 1,
+        "losses": 0
+      },
+      "11L0": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Mentalist": {
+      "6L1": {
+        "wins": 1,
+        "losses": 0
+      },
+      "8L6": {
+        "wins": 1,
+        "losses": 0
+      },
+      "5L3": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Thane": {
+      "7L8": {
+        "wins": 0,
+        "losses": 1
+      },
+      "3L2": {
+        "wins": 0,
+        "losses": 1
+      },
+      "11L1": {
+        "wins": 0,
+        "losses": 1
+      },
+      "7L6": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Spiritmaster": {
+      "4L9": {
+        "wins": 0,
+        "losses": 1
+      },
+      "6L1": {
+        "wins": 2,
+        "losses": 1
+      },
+      "9L3": {
+        "wins": 2,
+        "losses": 1
+      }
+    },
+    "Warrior": {
+      "4L2": {
+        "wins": 0,
+        "losses": 1
+      },
+      "5L7": {
+        "wins": 0,
+        "losses": 2
+      },
+      "10L4": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Cabalist": {
+      "9L4": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Hero": {
+      "6L6": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Champion": {
+      "3L5": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Warden": {
+      "4L5": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Valewalker": {
+      "7L5": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Blademaster": {
+      "2L7": {
+        "wins": 1,
+        "losses": 0
+      }
+    }
+  },
+  "2025-08-26": {
+    "Blademaster": {
+      "7L4": {
+        "wins": 1,
+        "losses": 0
+      },
+      "8L9": {
+        "wins": 1,
+        "losses": 0
+      },
+      "3L3": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Enchanter": {
+      "11L2": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Bard": {
+      "5L9": {
+        "wins": 1,
+        "losses": 0
+      },
+      "11L3": {
+        "wins": 2,
+        "losses": 0
+      },
+      "3L1": {
+        "wins": 1,
+        "losses": 0
+      },
+      "11L6": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Warden": {
+      "6L9": {
+        "wins": 1,
+        "losses": 0
+      },
+      "6L3": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Hero": {
+      "8L8": {
+        "wins": 1,
+        "losses": 0
+      },
+      "5L0": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Druid": {
+      "11L4": {
+        "wins": 1,
+        "losses": 0
+      },
+      "5L9": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Friar": {
+      "6L5": {
+        "wins": 0,
+        "losses": 1
+      },
+      "2L7": {
+        "wins": 0,
+        "losses": 1
+      },
+      "5L5": {
+        "wins": 2,
+        "losses": 1
+      },
+      "4L6": {
+        "wins": 0,
+        "losses": 2
+      }
+    },
+    "Mercenary": {
+      "9L8": {
+        "wins": 0,
+        "losses": 1
+      },
+      "5L1": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Paladin": {
+      "5L0": {
+        "wins": 0,
+        "losses": 1
+      },
+      "8L7": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Minstrel": {
+      "11L7": {
+        "wins": 0,
+        "losses": 1
+      },
+      "9L7": {
+        "wins": 0,
+        "losses": 1
+      },
+      "7L8": {
+        "wins": 0,
+        "losses": 1
+      },
+      "4L9": {
+        "wins": 2,
+        "losses": 1
+      },
+      "6L0": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Sorcerer": {
+      "2L8": {
+        "wins": 0,
+        "losses": 1
+      },
+      "5L4": {
+        "wins": 0,
+        "losses": 1
+      },
+      "6L7": {
+        "wins": 0,
+        "losses": 1
+      },
+      "8L8": {
+        "wins": 2,
+        "losses": 1
+      },
+      "7L1": {
+        "wins": 0,
+        "losses": 2
+      }
+    },
+    "Healer": {
+      "8L9": {
+        "wins": 3,
+        "losses": 2
+      },
+      "6L5": {
+        "wins": 3,
+        "losses": 2
+      },
+      "10L5": {
+        "wins": 2,
+        "losses": 0
+      },
+      "4L9": {
+        "wins": 1,
+        "losses": 0
+      },
+      "5L0": {
+        "wins": 1,
+        "losses": 0
+      },
+      "8L7": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Savage": {
+      "9L3": {
+        "wins": 5,
+        "losses": 2
+      },
+      "6L2": {
+        "wins": 3,
+        "losses": 2
+      }
+    },
+    "Skald": {
+      "2L9": {
+        "wins": 3,
+        "losses": 1
+      },
+      "3L0": {
+        "wins": 0,
+        "losses": 1
+      },
+      "6L6": {
+        "wins": 2,
+        "losses": 0
+      },
+      "3L9": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Shaman": {
+      "11L9": {
+        "wins": 3,
+        "losses": 2
+      },
+      "2L0": {
+        "wins": 0,
+        "losses": 1
+      },
+      "5L3": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Berserker": {
+      "4L0": {
+        "wins": 3,
+        "losses": 2
+      },
+      "2L5": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Cleric": {
+      "2L4": {
+        "wins": 0,
+        "losses": 1
+      },
+      "7L1": {
+        "wins": 0,
+        "losses": 1
+      },
+      "8L5": {
+        "wins": 2,
+        "losses": 1
+      },
+      "6L7": {
+        "wins": 0,
+        "losses": 2
+      }
+    },
+    "Wizard": {
+      "4L1": {
+        "wins": 0,
+        "losses": 1
+      },
+      "6L2": {
+        "wins": 0,
+        "losses": 2
+      },
+      "6L6": {
+        "wins": 0,
+        "losses": 2
+      }
+    },
+    "Infiltrator": {
+      "2L4": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Heretic": {
+      "5L0": {
+        "wins": 0,
+        "losses": 1
+      },
+      "6L6": {
+        "wins": 2,
+        "losses": 1
+      },
+      "6L8": {
+        "wins": 0,
+        "losses": 2
+      }
+    },
+    "Occultist": {
+      "2L4": {
+        "wins": 0,
+        "losses": 1
+      },
+      "8L6": {
+        "wins": 0,
+        "losses": 1
+      },
+      "5L1": {
+        "wins": 0,
+        "losses": 1
+      },
+      "6L0": {
+        "wins": 0,
+        "losses": 2
+      }
+    },
+    "Necromancer": {
+      "3L6": {
+        "wins": 0,
+        "losses": 1
+      },
+      "6L3": {
+        "wins": 0,
+        "losses": 2
+      }
+    },
+    "Cabalist": {
+      "3L5": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Theurgist": {
+      "8L4": {
+        "wins": 2,
+        "losses": 1
+      }
+    },
+    "Armsman": {
+      "6L5": {
+        "wins": 2,
+        "losses": 1
+      }
+    },
+    "Bonedancer": {
+      "9L3": {
+        "wins": 1,
+        "losses": 0
+      },
+      "9L4": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Valkyrie": {
+      "7L2": {
+        "wins": 2,
+        "losses": 0
+      }
+    },
+    "Runemaster": {
+      "6L0": {
+        "wins": 2,
+        "losses": 0
+      },
+      "7L1": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Thane": {
+      "2L8": {
+        "wins": 0,
+        "losses": 1
+      }
+    }
+  },
+  "2025-08-27": {
+    "Cleric": {
+      "10L6": {
+        "wins": 1,
+        "losses": 0
+      },
+      "3L7": {
+        "wins": 0,
+        "losses": 1
+      },
+      "5L5": {
+        "wins": 0,
+        "losses": 1
+      },
+      "6L4": {
+        "wins": 0,
+        "losses": 1
+      },
+      "3L4": {
+        "wins": 0,
+        "losses": 1
+      },
+      "5L6": {
+        "wins": 1,
+        "losses": 0
+      },
+      "6L2": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Paladin": {
+      "7L0": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Friar": {
+      "6L6": {
+        "wins": 1,
+        "losses": 0
+      },
+      "4L2": {
+        "wins": 0,
+        "losses": 1
+      },
+      "7L0": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Minstrel": {
+      "9L7": {
+        "wins": 1,
+        "losses": 0
+      },
+      "2L4": {
+        "wins": 0,
+        "losses": 2
+      },
+      "7L0": {
+        "wins": 1,
+        "losses": 0
+      },
+      "2L0": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Mercenary": {
+      "9L9": {
+        "wins": 1,
+        "losses": 0
+      },
+      "3L0": {
+        "wins": 0,
+        "losses": 2
+      },
+      "4L2": {
+        "wins": 0,
+        "losses": 2
+      }
+    },
+    "Sorcerer": {
+      "3L3": {
+        "wins": 1,
+        "losses": 0
+      },
+      "10L7": {
+        "wins": 0,
+        "losses": 1
+      },
+      "6L4": {
+        "wins": 1,
+        "losses": 0
+      },
+      "7L8": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Armsman": {
+      "11L0": {
+        "wins": 1,
+        "losses": 0
+      },
+      "6L1": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Valewalker": {
+      "7L9": {
+        "wins": 0,
+        "losses": 1
+      },
+      "6L6": {
+        "wins": 1,
+        "losses": 0
+      },
+      "8L2": {
+        "wins": 2,
+        "losses": 0
+      },
+      "6L4": {
+        "wins": 0,
+        "losses": 2
+      },
+      "6L7": {
+        "wins": 0,
+        "losses": 2
+      }
+    },
+    "Druid": {
+      "6L9": {
+        "wins": 0,
+        "losses": 1
+      },
+      "5L6": {
+        "wins": 1,
+        "losses": 0
+      },
+      "8L2": {
+        "wins": 0,
+        "losses": 1
+      },
+      "8L0": {
+        "wins": 2,
+        "losses": 0
+      },
+      "11L2": {
+        "wins": 0,
+        "losses": 2
+      }
+    },
+    "Mentalist": {
+      "5L0": {
+        "wins": 0,
+        "losses": 1
+      },
+      "7L5": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Warden": {
+      "4L0": {
+        "wins": 0,
+        "losses": 1
+      },
+      "8L0": {
+        "wins": 1,
+        "losses": 0
+      },
+      "6L0": {
+        "wins": 0,
+        "losses": 1
+      },
+      "2L4": {
+        "wins": 1,
+        "losses": 0
+      },
+      "6L2": {
+        "wins": 0,
+        "losses": 2
+      }
+    },
+    "Hero": {
+      "3L6": {
+        "wins": 0,
+        "losses": 1
+      },
+      "8L9": {
+        "wins": 1,
+        "losses": 0
+      },
+      "6L1": {
+        "wins": 2,
+        "losses": 0
+      }
+    },
+    "Bard": {
+      "7L5": {
+        "wins": 0,
+        "losses": 1
+      },
+      "8L1": {
+        "wins": 1,
+        "losses": 0
+      },
+      "5L5": {
+        "wins": 0,
+        "losses": 1
+      },
+      "4L5": {
+        "wins": 1,
+        "losses": 0
+      },
+      "9L1": {
+        "wins": 2,
+        "losses": 0
+      },
+      "7L7": {
+        "wins": 2,
+        "losses": 0
+      },
+      "5L3": {
+        "wins": 0,
+        "losses": 2
+      },
+      "3L9": {
+        "wins": 0,
+        "losses": 1
+      },
+      "4L0": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Blademaster": {
+      "6L4": {
+        "wins": 0,
+        "losses": 1
+      },
+      "8L9": {
+        "wins": 1,
+        "losses": 1
+      },
+      "5L4": {
+        "wins": 0,
+        "losses": 1
+      },
+      "4L4": {
+        "wins": 0,
+        "losses": 2
+      }
+    },
+    "Warlock": {
+      "10L0": {
+        "wins": 1,
+        "losses": 0
+      },
+      "8L1": {
+        "wins": 1,
+        "losses": 0
+      },
+      "9L9": {
+        "wins": 1,
+        "losses": 0
+      },
+      "4L0": {
+        "wins": 1,
+        "losses": 1
+      },
+      "2L2": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Shaman": {
+      "6L6": {
+        "wins": 1,
+        "losses": 0
+      },
+      "10L3": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Healer": {
+      "9L2": {
+        "wins": 1,
+        "losses": 0
+      },
+      "4L8": {
+        "wins": 0,
+        "losses": 1
+      },
+      "8L2": {
+        "wins": 0,
+        "losses": 1
+      },
+      "12L2": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Skald": {
+      "4L1": {
+        "wins": 1,
+        "losses": 0
+      },
+      "2L4": {
+        "wins": 0,
+        "losses": 1
+      },
+      "11L5": {
+        "wins": 1,
+        "losses": 0
+      },
+      "9L2": {
+        "wins": 1,
+        "losses": 0
+      },
+      "5L3": {
+        "wins": 1,
+        "losses": 1
+      },
+      "8L5": {
+        "wins": 1,
+        "losses": 1
+      }
+    },
+    "Savage": {
+      "4L8": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Runemaster": {
+      "4L1": {
+        "wins": 1,
+        "losses": 0
+      },
+      "4L6": {
+        "wins": 1,
+        "losses": 1
+      }
+    },
+    "Reaver": {
+      "5L9": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Spiritmaster": {
+      "4L0": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Bonedancer": {
+      "3L9": {
+        "wins": 0,
+        "losses": 1
+      },
+      "7L5": {
+        "wins": 0,
+        "losses": 1
+      },
+      "9L7": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Shadowblade": {
+      "3L2": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Animist": {
+      "5L5": {
+        "wins": 0,
+        "losses": 1
+      },
+      "5L6": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Eldritch": {
+      "3L8": {
+        "wins": 0,
+        "losses": 1
+      },
+      "2L7": {
+        "wins": 1,
+        "losses": 0
+      },
+      "8L3": {
+        "wins": 2,
+        "losses": 0
+      }
+    },
+    "Bainshee": {
+      "3L3": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Ranger": {
+      "3L6": {
+        "wins": 1,
+        "losses": 0
+      },
+      "3L5": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Wizard": {
+      "5L0": {
+        "wins": 0,
+        "losses": 1
+      },
+      "5L3": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Cabalist": {
+      "7L0": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Berserker": {
+      "2L2": {
+        "wins": 0,
+        "losses": 1
+      },
+      "4L7": {
+        "wins": 1,
+        "losses": 1
+      },
+      "2L3": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Heretic": {
+      "3L3": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Champion": {
+      "5L3": {
+        "wins": 2,
+        "losses": 0
+      }
+    }
+  },
+  "2025-08-28": {
+    "Scout": {
+      "9L4": {
+        "wins": 1,
+        "losses": 0
+      },
+      "5L1": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Minstrel": {
+      "5L7": {
+        "wins": 1,
+        "losses": 0
+      },
+      "3L7": {
+        "wins": 1,
+        "losses": 0
+      },
+      "4L3": {
+        "wins": 1,
+        "losses": 0
+      },
+      "6L3": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Infiltrator": {
+      "5L6": {
+        "wins": 1,
+        "losses": 0
+      },
+      "2L5": {
+        "wins": 1,
+        "losses": 0
+      },
+      "11L0": {
+        "wins": 1,
+        "losses": 0
+      },
+      "2L6": {
+        "wins": 1,
+        "losses": 0
+      },
+      "8L0": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Hunter": {
+      "7L9": {
+        "wins": 0,
+        "losses": 1
+      },
+      "4L5": {
+        "wins": 0,
+        "losses": 1
+      },
+      "7L2": {
+        "wins": 0,
+        "losses": 1
+      },
+      "5L3": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Shadowblade": {
+      "7L1": {
+        "wins": 0,
+        "losses": 1
+      },
+      "3L8": {
+        "wins": 0,
+        "losses": 1
+      },
+      "3L1": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Heretic": {
+      "10L4": {
+        "wins": 1,
+        "losses": 0
+      },
+      "7L4": {
+        "wins": 1,
+        "losses": 0
+      },
+      "3L2": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Cleric": {
+      "10L0": {
+        "wins": 1,
+        "losses": 0
+      },
+      "7L6": {
+        "wins": 1,
+        "losses": 0
+      },
+      "3L2": {
+        "wins": 1,
+        "losses": 0
+      },
+      "2L4": {
+        "wins": 1,
+        "losses": 0
+      },
+      "6L4": {
+        "wins": 0,
+        "losses": 1
+      },
+      "4L2": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Mercenary": {
+      "3L3": {
+        "wins": 1,
+        "losses": 0
+      },
+      "6L0": {
+        "wins": 0,
+        "losses": 1
+      },
+      "9L2": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Armsman": {
+      "11L3": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Savage": {
+      "3L5": {
+        "wins": 0,
+        "losses": 1
+      },
+      "5L0": {
+        "wins": 0,
+        "losses": 1
+      },
+      "4L6": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Berserker": {
+      "5L3": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Shaman": {
+      "5L0": {
+        "wins": 0,
+        "losses": 1
+      },
+      "4L2": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Skald": {
+      "4L8": {
+        "wins": 0,
+        "losses": 1
+      },
+      "3L1": {
+        "wins": 1,
+        "losses": 1
+      },
+      "8L4": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Healer": {
+      "6L5": {
+        "wins": 0,
+        "losses": 1
+      },
+      "2L9": {
+        "wins": 1,
+        "losses": 0
+      },
+      "3L2": {
+        "wins": 1,
+        "losses": 0
+      },
+      "4L8": {
+        "wins": 0,
+        "losses": 1
+      },
+      "8L2": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Valkyrie": {
+      "3L8": {
+        "wins": 0,
+        "losses": 1
+      },
+      "5L3": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Bonedancer": {
+      "5L9": {
+        "wins": 0,
+        "losses": 1
+      },
+      "3L3": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Thane": {
+      "4L5": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Sorcerer": {
+      "6L0": {
+        "wins": 1,
+        "losses": 0
+      },
+      "5L6": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Wizard": {
+      "5L4": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Druid": {
+      "3L6": {
+        "wins": 0,
+        "losses": 1
+      },
+      "2L9": {
+        "wins": 0,
+        "losses": 1
+      },
+      "7L3": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Warden": {
+      "3L5": {
+        "wins": 0,
+        "losses": 1
+      },
+      "6L7": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Champion": {
+      "1L9": {
+        "wins": 0,
+        "losses": 1
+      },
+      "9L1": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Bard": {
+      "2L3": {
+        "wins": 0,
+        "losses": 1
+      },
+      "10L3": {
+        "wins": 1,
+        "losses": 0
+      },
+      "7L9": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Animist": {
+      "5L7": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Valewalker": {
+      "2L2": {
+        "wins": 0,
+        "losses": 1
+      },
+      "6L5": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Runemaster": {
+      "5L7": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Spiritmaster": {
+      "3L0": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Occultist": {
+      "5L6": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Hero": {
+      "7L2": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Warrior": {
+      "6L2": {
+        "wins": 0,
+        "losses": 1
+      }
+    }
+  },
+  "2025-08-29": {
+    "Blademaster": {
+      "9L1": {
+        "wins": 1,
+        "losses": 0
+      },
+      "11L3": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Bard": {
+      "6L3": {
+        "wins": 1,
+        "losses": 0
+      },
+      "4L4": {
+        "wins": 0,
+        "losses": 1
+      },
+      "3L9": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Champion": {
+      "4L4": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Druid": {
+      "8L1": {
+        "wins": 1,
+        "losses": 0
+      },
+      "7L4": {
+        "wins": 0,
+        "losses": 1
+      },
+      "9L1": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Hero": {
+      "9L4": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Mercenary": {
+      "6L1": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Friar": {
+      "4L5": {
+        "wins": 0,
+        "losses": 1
+      },
+      "4L0": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Paladin": {
+      "3L0": {
+        "wins": 0,
+        "losses": 1
+      },
+      "5L6": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Wizard": {
+      "5L1": {
+        "wins": 0,
+        "losses": 1
+      },
+      "8L3": {
+        "wins": 1,
+        "losses": 0
+      },
+      "3L9": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Reaver": {
+      "2L9": {
+        "wins": 0,
+        "losses": 1
+      },
+      "6L0": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Necromancer": {
+      "10L7": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Cleric": {
+      "9L2": {
+        "wins": 1,
+        "losses": 0
+      },
+      "11L3": {
+        "wins": 1,
+        "losses": 0
+      },
+      "10L3": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Heretic": {
+      "5L3": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Scout": {
+      "6L7": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Minstrel": {
+      "5L4": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Sorcerer": {
+      "5L7": {
+        "wins": 1,
+        "losses": 0
+      },
+      "5L3": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Mentalist": {
+      "2L5": {
+        "wins": 0,
+        "losses": 1
+      },
+      "3L3": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Warden": {
+      "4L1": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Eldritch": {
+      "2L6": {
+        "wins": 0,
+        "losses": 1
+      },
+      "8L8": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Enchanter": {
+      "2L9": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Theurgist": {
+      "5L4": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Armsman": {
+      "6L3": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Skald": {
+      "5L3": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Savage": {
+      "5L8": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Warlock": {
+      "5L9": {
+        "wins": 0,
+        "losses": 1
+      },
+      "2L4": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Healer": {
+      "9L6": {
+        "wins": 0,
+        "losses": 1
+      },
+      "8L2": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Spiritmaster": {
+      "4L0": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Berserker": {
+      "9L8": {
+        "wins": 0,
+        "losses": 1
+      }
+    }
+  },
+  "2025-08-30": {
+    "Valewalker": {
+      "5L5": {
+        "wins": 1,
+        "losses": 0
+      },
+      "4L7": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Warden": {
+      "6L1": {
+        "wins": 1,
+        "losses": 0
+      },
+      "4L3": {
+        "wins": 2,
+        "losses": 0
+      }
+    },
+    "Bainshee": {
+      "4L0": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Blademaster": {
+      "6L1": {
+        "wins": 1,
+        "losses": 0
+      },
+      "3L8": {
+        "wins": 2,
+        "losses": 0
+      }
+    },
+    "Druid": {
+      "6L2": {
+        "wins": 1,
+        "losses": 0
+      },
+      "5L2": {
+        "wins": 2,
+        "losses": 0
+      }
+    },
+    "Eldritch": {
+      "6L3": {
+        "wins": 1,
+        "losses": 0
+      },
+      "5L9": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Bard": {
+      "4L1": {
+        "wins": 1,
+        "losses": 0
+      },
+      "2L7": {
+        "wins": 1,
+        "losses": 0
+      },
+      "2L8": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Healer": {
+      "3L3": {
+        "wins": 0,
+        "losses": 1
+      },
+      "3L2": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Berserker": {
+      "3L1": {
+        "wins": 0,
+        "losses": 1
+      },
+      "3L6": {
+        "wins": 1,
+        "losses": 0
+      },
+      "3L5": {
+        "wins": 1,
+        "losses": 0
+      },
+      "8L2": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Warrior": {
+      "2L6": {
+        "wins": 0,
+        "losses": 1
+      },
+      "2L5": {
+        "wins": 0,
+        "losses": 1
+      },
+      "2L4": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Shaman": {
+      "3L5": {
+        "wins": 0,
+        "losses": 1
+      },
+      "8L7": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Skald": {
+      "4L3": {
+        "wins": 0,
+        "losses": 1
+      },
+      "3L9": {
+        "wins": 1,
+        "losses": 0
+      },
+      "2L3": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Warlock": {
+      "1L9": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Hero": {
+      "3L1": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Heretic": {
+      "2L8": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Scout": {
+      "5L2": {
+        "wins": 0,
+        "losses": 1
+      },
+      "3L9": {
+        "wins": 0,
+        "losses": 1
+      },
+      "10L5": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Paladin": {
+      "4L2": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Occultist": {
+      "2L7": {
+        "wins": 0,
+        "losses": 1
+      },
+      "4L3": {
+        "wins": 0,
+        "losses": 1
+      },
+      "5L2": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Reaver": {
+      "6L3": {
+        "wins": 0,
+        "losses": 1
+      },
+      "8L6": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Minstrel": {
+      "3L8": {
+        "wins": 0,
+        "losses": 1
+      },
+      "11L1": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Vampiir": {
+      "3L2": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Champion": {
+      "4L3": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Ranger": {
+      "3L5": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Bonedancer": {
+      "5L0": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Savage": {
+      "3L1": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Shadowblade": {
+      "3L4": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Thane": {
+      "5L0": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Cleric": {
+      "8L8": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Wizard": {
+      "9L5": {
+        "wins": 0,
+        "losses": 1
+      },
+      "7L3": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Friar": {
+      "4L3": {
+        "wins": 0,
+        "losses": 1
+      }
+    }
+  },
+  "2025-08-31": {
+    "Paladin": {
+      "3L9": {
+        "wins": 1,
+        "losses": 0
+      },
+      "4L0": {
+        "wins": 1,
+        "losses": 0
+      },
+      "6L3": {
+        "wins": 0,
+        "losses": 1
+      },
+      "4L1": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Cabalist": {
+      "4L0": {
+        "wins": 2,
+        "losses": 0
+      },
+      "6L9": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Heretic": {
+      "5L1": {
+        "wins": 1,
+        "losses": 0
+      },
+      "5L2": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Cleric": {
+      "2L9": {
+        "wins": 1,
+        "losses": 0
+      },
+      "3L0": {
+        "wins": 1,
+        "losses": 0
+      },
+      "4L9": {
+        "wins": 0,
+        "losses": 1
+      },
+      "9L3": {
+        "wins": 0,
+        "losses": 1
+      },
+      "6L0": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Minstrel": {
+      "3L1": {
+        "wins": 1,
+        "losses": 0
+      },
+      "3L2": {
+        "wins": 1,
+        "losses": 0
+      },
+      "6L5": {
+        "wins": 0,
+        "losses": 1
+      },
+      "7L9": {
+        "wins": 0,
+        "losses": 1
+      },
+      "6L1": {
+        "wins": 0,
+        "losses": 2
+      }
+    },
+    "Sorcerer": {
+      "6L8": {
+        "wins": 2,
+        "losses": 0
+      },
+      "5L0": {
+        "wins": 2,
+        "losses": 0
+      },
+      "7L9": {
+        "wins": 0,
+        "losses": 1
+      },
+      "6L9": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Warden": {
+      "11L6": {
+        "wins": 0,
+        "losses": 1
+      },
+      "7L1": {
+        "wins": 0,
+        "losses": 1
+      },
+      "4L4": {
+        "wins": 1,
+        "losses": 0
+      },
+      "3L1": {
+        "wins": 1,
+        "losses": 0
+      },
+      "6L6": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Valewalker": {
+      "3L1": {
+        "wins": 0,
+        "losses": 1
+      },
+      "4L8": {
+        "wins": 1,
+        "losses": 0
+      },
+      "3L3": {
+        "wins": 1,
+        "losses": 0
+      },
+      "5L1": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Druid": {
+      "4L6": {
+        "wins": 1,
+        "losses": 1
+      },
+      "11L4": {
+        "wins": 0,
+        "losses": 1
+      },
+      "5L2": {
+        "wins": 1,
+        "losses": 0
+      },
+      "5L7": {
+        "wins": 1,
+        "losses": 0
+      },
+      "10L2": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Blademaster": {
+      "9L1": {
+        "wins": 0,
+        "losses": 1
+      },
+      "7L6": {
+        "wins": 0,
+        "losses": 1
+      },
+      "3L9": {
+        "wins": 1,
+        "losses": 0
+      },
+      "4L2": {
+        "wins": 1,
+        "losses": 0
+      },
+      "5L8": {
+        "wins": 1,
+        "losses": 0
+      },
+      "6L8": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Bard": {
+      "11L0": {
+        "wins": 0,
+        "losses": 1
+      },
+      "4L0": {
+        "wins": 0,
+        "losses": 1
+      },
+      "11L3": {
+        "wins": 0,
+        "losses": 1
+      },
+      "2L9": {
+        "wins": 1,
+        "losses": 0
+      },
+      "4L5": {
+        "wins": 1,
+        "losses": 0
+      },
+      "6L0": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Champion": {
+      "4L7": {
+        "wins": 0,
+        "losses": 1
+      },
+      "4L4": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Mentalist": {
+      "12L0": {
+        "wins": 0,
+        "losses": 1
+      },
+      "2L6": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Enchanter": {
+      "11L2": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Eldritch": {
+      "11L2": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Hero": {
+      "3L1": {
+        "wins": 1,
+        "losses": 0
+      },
+      "2L7": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Skald": {
+      "2L2": {
+        "wins": 0,
+        "losses": 1
+      },
+      "6L1": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Thane": {
+      "2L8": {
+        "wins": 0,
+        "losses": 1
+      },
+      "3L9": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Spiritmaster": {
+      "2L6": {
+        "wins": 0,
+        "losses": 1
+      },
+      "5L8": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Valkyrie": {
+      "3L9": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Runemaster": {
+      "5L2": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Healer": {
+      "3L3": {
+        "wins": 0,
+        "losses": 1
+      },
+      "7L7": {
+        "wins": 1,
+        "losses": 0
+      },
+      "5L3": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Mercenary": {
+      "6L5": {
+        "wins": 0,
+        "losses": 1
+      },
+      "3L0": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Reaver": {
+      "6L3": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Friar": {
+      "11L6": {
+        "wins": 0,
+        "losses": 1
+      },
+      "4L5": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Wizard": {
+      "8L7": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Shadowblade": {
+      "7L1": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Hunter": {
+      "3L9": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Warlock": {
+      "5L0": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Scout": {
+      "6L0": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Armsman": {
+      "4L0": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Theurgist": {
+      "4L4": {
+        "wins": 0,
+        "losses": 1
+      }
+    }
+  },
+  "2025-09-01": {
+    "Berserker": {
+      "3L7": {
+        "wins": 2,
+        "losses": 0
+      },
+      "6L2": {
+        "wins": 2,
+        "losses": 0
+      }
+    },
+    "Healer": {
+      "6L5": {
+        "wins": 2,
+        "losses": 0
+      }
+    },
+    "Thane": {
+      "6L7": {
+        "wins": 2,
+        "losses": 0
+      }
+    },
+    "Runemaster": {
+      "5L1": {
+        "wins": 1,
+        "losses": 0
+      },
+      "11L2": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Warlock": {
+      "5L9": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Skald": {
+      "5L4": {
+        "wins": 1,
+        "losses": 0
+      },
+      "6L7": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Warden": {
+      "7L1": {
+        "wins": 0,
+        "losses": 1
+      },
+      "4L6": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Valewalker": {
+      "2L6": {
+        "wins": 0,
+        "losses": 1
+      },
+      "3L3": {
+        "wins": 0,
+        "losses": 1
+      },
+      "3L4": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Bard": {
+      "6L6": {
+        "wins": 0,
+        "losses": 1
+      },
+      "7L3": {
+        "wins": 0,
+        "losses": 1
+      },
+      "2L5": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Druid": {
+      "3L3": {
+        "wins": 0,
+        "losses": 1
+      },
+      "3L7": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Blademaster": {
+      "3L0": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Ranger": {
+      "2L9": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Eldritch": {
+      "4L2": {
+        "wins": 0,
+        "losses": 1
+      },
+      "2L4": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Warrior": {
+      "2L7": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Nightshade": {
+      "4L1": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Hero": {
+      "4L0": {
+        "wins": 0,
+        "losses": 1
+      }
+    }
+  },
+  "2025-09-02": {
+    "Friar": {
+      "7L2": {
+        "wins": 1,
+        "losses": 0
+      },
+      "8L1": {
+        "wins": 1,
+        "losses": 0
+      },
+      "3L5": {
+        "wins": 0,
+        "losses": 1
+      },
+      "3L6": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Sorcerer": {
+      "11L5": {
+        "wins": 1,
+        "losses": 0
+      },
+      "8L1": {
+        "wins": 1,
+        "losses": 0
+      },
+      "6L5": {
+        "wins": 0,
+        "losses": 2
+      }
+    },
+    "Cleric": {
+      "7L8": {
+        "wins": 1,
+        "losses": 0
+      },
+      "8L3": {
+        "wins": 1,
+        "losses": 0
+      },
+      "5L1": {
+        "wins": 0,
+        "losses": 2
+      }
+    },
+    "Armsman": {
+      "6L1": {
+        "wins": 1,
+        "losses": 0
+      },
+      "3L3": {
+        "wins": 1,
+        "losses": 0
+      },
+      "6L4": {
+        "wins": 0,
+        "losses": 2
+      }
+    },
+    "Cabalist": {
+      "8L6": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Minstrel": {
+      "6L7": {
+        "wins": 1,
+        "losses": 0
+      },
+      "6L0": {
+        "wins": 1,
+        "losses": 0
+      },
+      "7L9": {
+        "wins": 0,
+        "losses": 2
+      }
+    },
+    "Druid": {
+      "8L0": {
+        "wins": 0,
+        "losses": 1
+      },
+      "3L2": {
+        "wins": 0,
+        "losses": 1
+      },
+      "3L9": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Hero": {
+      "8L2": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Bard": {
+      "8L6": {
+        "wins": 0,
+        "losses": 1
+      },
+      "7L8": {
+        "wins": 0,
+        "losses": 1
+      },
+      "2L1": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Blademaster": {
+      "3L2": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Warden": {
+      "4L4": {
+        "wins": 0,
+        "losses": 1
+      },
+      "2L8": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Eldritch": {
+      "12L8": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Reaver": {
+      "4L1": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Paladin": {
+      "4L0": {
+        "wins": 1,
+        "losses": 0
+      },
+      "5L6": {
+        "wins": 0,
+        "losses": 2
+      }
+    },
+    "Mercenary": {
+      "4L3": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Occultist": {
+      "2L4": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Shaman": {
+      "6L2": {
+        "wins": 0,
+        "losses": 1
+      },
+      "5L0": {
+        "wins": 2,
+        "losses": 0
+      }
+    },
+    "Hunter": {
+      "3L8": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Runemaster": {
+      "6L8": {
+        "wins": 0,
+        "losses": 1
+      },
+      "8L8": {
+        "wins": 0,
+        "losses": 1
+      },
+      "5L7": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Warrior": {
+      "6L2": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Skald": {
+      "2L5": {
+        "wins": 0,
+        "losses": 1
+      },
+      "4L3": {
+        "wins": 2,
+        "losses": 0
+      },
+      "3L0": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Healer": {
+      "6L2": {
+        "wins": 0,
+        "losses": 1
+      },
+      "4L8": {
+        "wins": 2,
+        "losses": 0
+      },
+      "3L9": {
+        "wins": 2,
+        "losses": 0
+      },
+      "3L8": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Bonedancer": {
+      "3L0": {
+        "wins": 2,
+        "losses": 0
+      },
+      "5L1": {
+        "wins": 2,
+        "losses": 0
+      },
+      "2L6": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Spiritmaster": {
+      "4L5": {
+        "wins": 2,
+        "losses": 0
+      },
+      "2L1": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Heretic": {
+      "5L5": {
+        "wins": 0,
+        "losses": 2
+      }
+    },
+    "Berserker": {
+      "4L4": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Champion": {
+      "2L3": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Animist": {
+      "2L6": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Mentalist": {
+      "2L6": {
+        "wins": 0,
+        "losses": 1
+      }
+    }
+  },
+  "2025-09-03": {
+    "Bainshee": {
+      "4L6": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Druid": {
+      "5L2": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Eldritch": {
+      "5L9": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Bard": {
+      "5L0": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Enchanter": {
+      "10L7": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Warden": {
+      "7L0": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Blademaster": {
+      "8L4": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Warlock": {
+      "3L9": {
+        "wins": 0,
+        "losses": 1
+      },
+      "2L3": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Savage": {
+      "2L7": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Valkyrie": {
+      "7L8": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Healer": {
+      "8L1": {
+        "wins": 0,
+        "losses": 1
+      },
+      "4L6": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Skald": {
+      "5L8": {
+        "wins": 0,
+        "losses": 1
+      }
+    }
+  },
+  "2025-09-04": {
+    "Enchanter": {
+      "9L3": {
+        "wins": 3,
+        "losses": 2
+      },
+      "9L2": {
+        "wins": 1,
+        "losses": 0
+      },
+      "4L2": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Druid": {
+      "11L4": {
+        "wins": 2,
+        "losses": 2
+      },
+      "8L4": {
+        "wins": 2,
+        "losses": 2
+      },
+      "7L5": {
+        "wins": 0,
+        "losses": 1
+      },
+      "10L3": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Bard": {
+      "11L3": {
+        "wins": 2,
+        "losses": 2
+      },
+      "2L7": {
+        "wins": 0,
+        "losses": 1
+      },
+      "3L9": {
+        "wins": 0,
+        "losses": 1
+      },
+      "11L0": {
+        "wins": 0,
+        "losses": 1
+      },
+      "11L9": {
+        "wins": 2,
+        "losses": 0
+      }
+    },
+    "Eldritch": {
+      "11L2": {
+        "wins": 2,
+        "losses": 2
+      }
+    },
+    "Blademaster": {
+      "7L8": {
+        "wins": 2,
+        "losses": 2
+      },
+      "3L0": {
+        "wins": 0,
+        "losses": 1
+      },
+      "11L3": {
+        "wins": 0,
+        "losses": 1
+      },
+      "3L1": {
+        "wins": 0,
+        "losses": 1
+      },
+      "6L0": {
+        "wins": 2,
+        "losses": 0
+      }
+    },
+    "Hero": {
+      "9L2": {
+        "wins": 2,
+        "losses": 2
+      },
+      "4L4": {
+        "wins": 0,
+        "losses": 1
+      },
+      "11L0": {
+        "wins": 2,
+        "losses": 0
+      }
+    },
+    "Warrior": {
+      "3L7": {
+        "wins": 0,
+        "losses": 1
+      },
+      "4L4": {
+        "wins": 1,
+        "losses": 1
+      }
+    },
+    "Spiritmaster": {
+      "3L6": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Runemaster": {
+      "6L0": {
+        "wins": 0,
+        "losses": 1
+      },
+      "2L8": {
+        "wins": 1,
+        "losses": 0
+      },
+      "2L9": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Skald": {
+      "4L3": {
+        "wins": 0,
+        "losses": 1
+      },
+      "6L7": {
+        "wins": 1,
+        "losses": 1
+      },
+      "7L4": {
+        "wins": 1,
+        "losses": 1
+      }
+    },
+    "Bonedancer": {
+      "7L3": {
+        "wins": 1,
+        "losses": 2
+      }
+    },
+    "Healer": {
+      "7L3": {
+        "wins": 0,
+        "losses": 1
+      },
+      "2L9": {
+        "wins": 1,
+        "losses": 1
+      },
+      "6L1": {
+        "wins": 1,
+        "losses": 1
+      },
+      "4L2": {
+        "wins": 1,
+        "losses": 1
+      }
+    },
+    "Cleric": {
+      "6L0": {
+        "wins": 2,
+        "losses": 1
+      },
+      "9L6": {
+        "wins": 1,
+        "losses": 0
+      },
+      "3L8": {
+        "wins": 0,
+        "losses": 1
+      },
+      "4L0": {
+        "wins": 1,
+        "losses": 0
+      },
+      "7L8": {
+        "wins": 0,
+        "losses": 2
+      }
+    },
+    "Friar": {
+      "5L4": {
+        "wins": 2,
+        "losses": 1
+      },
+      "8L0": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Minstrel": {
+      "5L4": {
+        "wins": 2,
+        "losses": 1
+      },
+      "5L1": {
+        "wins": 0,
+        "losses": 1
+      },
+      "10L6": {
+        "wins": 0,
+        "losses": 1
+      },
+      "5L5": {
+        "wins": 0,
+        "losses": 2
+      },
+      "5L9": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Cabalist": {
+      "6L0": {
+        "wins": 2,
+        "losses": 1
+      },
+      "5L5": {
+        "wins": 2,
+        "losses": 1
+      },
+      "6L3": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Sorcerer": {
+      "7L0": {
+        "wins": 2,
+        "losses": 1
+      },
+      "6L0": {
+        "wins": 2,
+        "losses": 1
+      },
+      "7L3": {
+        "wins": 1,
+        "losses": 0
+      },
+      "3L8": {
+        "wins": 1,
+        "losses": 0
+      },
+      "2L3": {
+        "wins": 0,
+        "losses": 1
+      },
+      "3L4": {
+        "wins": 1,
+        "losses": 0
+      },
+      "2L2": {
+        "wins": 1,
+        "losses": 0
+      },
+      "8L7": {
+        "wins": 0,
+        "losses": 2
+      },
+      "7L8": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Heretic": {
+      "4L3": {
+        "wins": 1,
+        "losses": 0
+      },
+      "5L0": {
+        "wins": 1,
+        "losses": 0
+      },
+      "3L8": {
+        "wins": 0,
+        "losses": 1
+      },
+      "3L9": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Theurgist": {
+      "5L5": {
+        "wins": 1,
+        "losses": 0
+      },
+      "6L2": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Valewalker": {
+      "2L9": {
+        "wins": 0,
+        "losses": 1
+      },
+      "5L4": {
+        "wins": 1,
+        "losses": 0
+      },
+      "5L5": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Warden": {
+      "2L3": {
+        "wins": 0,
+        "losses": 1
+      },
+      "6L9": {
+        "wins": 0,
+        "losses": 1
+      },
+      "3L0": {
+        "wins": 0,
+        "losses": 1
+      },
+      "7L1": {
+        "wins": 1,
+        "losses": 0
+      },
+      "6L1": {
+        "wins": 2,
+        "losses": 0
+      }
+    },
+    "Berserker": {
+      "3L6": {
+        "wins": 1,
+        "losses": 1
+      },
+      "6L1": {
+        "wins": 1,
+        "losses": 1
+      },
+      "3L7": {
+        "wins": 1,
+        "losses": 1
+      }
+    },
+    "Shaman": {
+      "4L1": {
+        "wins": 1,
+        "losses": 1
+      },
+      "5L8": {
+        "wins": 1,
+        "losses": 1
+      },
+      "5L2": {
+        "wins": 1,
+        "losses": 1
+      }
+    },
+    "Mercenary": {
+      "4L3": {
+        "wins": 0,
+        "losses": 1
+      },
+      "11L8": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Paladin": {
+      "3L8": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Wizard": {
+      "7L9": {
+        "wins": 0,
+        "losses": 1
+      },
+      "4L2": {
+        "wins": 1,
+        "losses": 0
+      },
+      "3L9": {
+        "wins": 0,
+        "losses": 2
+      },
+      "8L4": {
+        "wins": 0,
+        "losses": 2
+      }
+    },
+    "Necromancer": {
+      "8L9": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Scout": {
+      "2L5": {
+        "wins": 1,
+        "losses": 0
+      },
+      "6L9": {
+        "wins": 1,
+        "losses": 0
+      },
+      "6L5": {
+        "wins": 1,
+        "losses": 0
+      },
+      "9L5": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Infiltrator": {
+      "4L8": {
+        "wins": 1,
+        "losses": 0
+      },
+      "7L1": {
+        "wins": 1,
+        "losses": 0
+      },
+      "6L3": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Ranger": {
+      "2L7": {
+        "wins": 0,
+        "losses": 1
+      },
+      "3L9": {
+        "wins": 0,
+        "losses": 1
+      },
+      "3L2": {
+        "wins": 0,
+        "losses": 1
+      },
+      "4L9": {
+        "wins": 0,
+        "losses": 1
+      },
+      "10L1": {
+        "wins": 0,
+        "losses": 1
+      },
+      "5L3": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Nightshade": {
+      "4L1": {
+        "wins": 0,
+        "losses": 1
+      }
+    }
+  },
+  "2025-09-05": {
+    "Paladin": {
+      "4L7": {
+        "wins": 1,
+        "losses": 0
+      },
+      "4L4": {
+        "wins": 1,
+        "losses": 0
+      },
+      "2L0": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Cleric": {
+      "7L6": {
+        "wins": 1,
+        "losses": 0
+      },
+      "2L8": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Reaver": {
+      "4L7": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Theurgist": {
+      "7L5": {
+        "wins": 1,
+        "losses": 0
+      },
+      "10L8": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Sorcerer": {
+      "4L7": {
+        "wins": 1,
+        "losses": 0
+      },
+      "6L1": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Minstrel": {
+      "2L9": {
+        "wins": 1,
+        "losses": 0
+      },
+      "7L2": {
+        "wins": 1,
+        "losses": 0
+      },
+      "1L9": {
+        "wins": 0,
+        "losses": 1
+      },
+      "3L2": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Hero": {
+      "9L5": {
+        "wins": 0,
+        "losses": 1
+      },
+      "8L2": {
+        "wins": 2,
+        "losses": 0
+      }
+    },
+    "Bainshee": {
+      "5L8": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Bard": {
+      "9L6": {
+        "wins": 0,
+        "losses": 1
+      },
+      "11L6": {
+        "wins": 2,
+        "losses": 0
+      },
+      "6L2": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Blademaster": {
+      "2L9": {
+        "wins": 0,
+        "losses": 1
+      },
+      "9L4": {
+        "wins": 0,
+        "losses": 1
+      },
+      "9L0": {
+        "wins": 1,
+        "losses": 0
+      },
+      "3L0": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Warden": {
+      "6L7": {
+        "wins": 0,
+        "losses": 1
+      },
+      "11L0": {
+        "wins": 2,
+        "losses": 0
+      },
+      "8L2": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Druid": {
+      "3L7": {
+        "wins": 0,
+        "losses": 1
+      },
+      "9L2": {
+        "wins": 2,
+        "losses": 0
+      },
+      "5L9": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Friar": {
+      "4L9": {
+        "wins": 1,
+        "losses": 0
+      },
+      "6L1": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Mercenary": {
+      "5L7": {
+        "wins": 1,
+        "losses": 0
+      },
+      "2L8": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Wizard": {
+      "7L9": {
+        "wins": 1,
+        "losses": 0
+      },
+      "2L6": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Skald": {
+      "7L3": {
+        "wins": 0,
+        "losses": 1
+      },
+      "5L9": {
+        "wins": 0,
+        "losses": 2
+      },
+      "4L2": {
+        "wins": 0,
+        "losses": 1
+      },
+      "3L8": {
+        "wins": 0,
+        "losses": 1
+      },
+      "4L9": {
+        "wins": 1,
+        "losses": 0
+      },
+      "2L3": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Healer": {
+      "2L9": {
+        "wins": 0,
+        "losses": 1
+      },
+      "5L1": {
+        "wins": 0,
+        "losses": 1
+      },
+      "5L2": {
+        "wins": 0,
+        "losses": 2
+      },
+      "4L5": {
+        "wins": 0,
+        "losses": 2
+      },
+      "3L1": {
+        "wins": 0,
+        "losses": 1
+      },
+      "5L3": {
+        "wins": 1,
+        "losses": 0
+      },
+      "4L7": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Spiritmaster": {
+      "6L7": {
+        "wins": 0,
+        "losses": 1
+      },
+      "9L6": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Warlock": {
+      "4L8": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Shaman": {
+      "8L8": {
+        "wins": 0,
+        "losses": 1
+      },
+      "4L6": {
+        "wins": 0,
+        "losses": 1
+      },
+      "2L9": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Enchanter": {
+      "9L4": {
+        "wins": 2,
+        "losses": 0
+      }
+    },
+    "Valewalker": {
+      "8L1": {
+        "wins": 2,
+        "losses": 0
+      },
+      "6L8": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Mentalist": {
+      "7L9": {
+        "wins": 2,
+        "losses": 0
+      }
+    },
+    "Runemaster": {
+      "7L5": {
+        "wins": 0,
+        "losses": 2
+      },
+      "8L7": {
+        "wins": 0,
+        "losses": 1
+      },
+      "3L9": {
+        "wins": 0,
+        "losses": 1
+      },
+      "4L3": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Berserker": {
+      "11L1": {
+        "wins": 0,
+        "losses": 2
+      },
+      "10L1": {
+        "wins": 0,
+        "losses": 2
+      }
+    },
+    "Savage": {
+      "5L7": {
+        "wins": 0,
+        "losses": 2
+      }
+    },
+    "Vampiir": {
+      "6L9": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Bonedancer": {
+      "2L8": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Warrior": {
+      "2L4": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Cabalist": {
+      "3L2": {
+        "wins": 0,
+        "losses": 1
+      }
+    }
+  },
+  "2025-09-06": {
+    "Scout": {
+      "6L7": {
+        "wins": 1,
+        "losses": 0
+      },
+      "5L1": {
+        "wins": 1,
+        "losses": 1
+      },
+      "9L5": {
+        "wins": 0,
+        "losses": 1
+      },
+      "2L9": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Cleric": {
+      "6L7": {
+        "wins": 1,
+        "losses": 0
+      },
+      "6L4": {
+        "wins": 0,
+        "losses": 1
+      },
+      "3L9": {
+        "wins": 3,
+        "losses": 0
+      },
+      "6L0": {
+        "wins": 0,
+        "losses": 1
+      },
+      "5L8": {
+        "wins": 0,
+        "losses": 1
+      },
+      "7L0": {
+        "wins": 0,
+        "losses": 1
+      },
+      "7L2": {
+        "wins": 0,
+        "losses": 2
+      }
+    },
+    "Minstrel": {
+      "10L5": {
+        "wins": 1,
+        "losses": 0
+      },
+      "5L1": {
+        "wins": 1,
+        "losses": 0
+      },
+      "10L0": {
+        "wins": 1,
+        "losses": 1
+      },
+      "5L6": {
+        "wins": 0,
+        "losses": 1
+      },
+      "6L3": {
+        "wins": 0,
+        "losses": 1
+      },
+      "6L1": {
+        "wins": 0,
+        "losses": 1
+      },
+      "4L5": {
+        "wins": 1,
+        "losses": 0
+      },
+      "1L9": {
+        "wins": 0,
+        "losses": 1
+      },
+      "4L4": {
+        "wins": 1,
+        "losses": 0
+      },
+      "7L9": {
+        "wins": 2,
+        "losses": 0
+      },
+      "4L7": {
+        "wins": 2,
+        "losses": 0
+      },
+      "7L4": {
+        "wins": 0,
+        "losses": 2
+      }
+    },
+    "Infiltrator": {
+      "3L2": {
+        "wins": 1,
+        "losses": 0
+      },
+      "4L4": {
+        "wins": 1,
+        "losses": 0
+      },
+      "6L1": {
+        "wins": 1,
+        "losses": 0
+      },
+      "6L4": {
+        "wins": 1,
+        "losses": 1
+      },
+      "11L0": {
+        "wins": 1,
+        "losses": 1
+      },
+      "3L9": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Hunter": {
+      "7L5": {
+        "wins": 0,
+        "losses": 1
+      },
+      "5L0": {
+        "wins": 0,
+        "losses": 1
+      },
+      "8L1": {
+        "wins": 1,
+        "losses": 1
+      },
+      "5L1": {
+        "wins": 1,
+        "losses": 1
+      },
+      "2L6": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Shadowblade": {
+      "4L1": {
+        "wins": 0,
+        "losses": 1
+      },
+      "7L4": {
+        "wins": 1,
+        "losses": 1
+      },
+      "3L1": {
+        "wins": 1,
+        "losses": 0
+      },
+      "6L0": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Healer": {
+      "3L5": {
+        "wins": 0,
+        "losses": 1
+      },
+      "4L5": {
+        "wins": 0,
+        "losses": 1
+      },
+      "11L1": {
+        "wins": 0,
+        "losses": 1
+      },
+      "7L4": {
+        "wins": 0,
+        "losses": 1
+      },
+      "3L7": {
+        "wins": 1,
+        "losses": 0
+      },
+      "4L0": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Warlock": {
+      "5L2": {
+        "wins": 1,
+        "losses": 0
+      },
+      "3L8": {
+        "wins": 2,
+        "losses": 0
+      }
+    },
+    "Mercenary": {
+      "11L8": {
+        "wins": 0,
+        "losses": 1
+      },
+      "9L3": {
+        "wins": 1,
+        "losses": 0
+      },
+      "4L9": {
+        "wins": 2,
+        "losses": 0
+      },
+      "5L2": {
+        "wins": 0,
+        "losses": 2
+      }
+    },
+    "Reaver": {
+      "3L8": {
+        "wins": 1,
+        "losses": 0
+      },
+      "5L3": {
+        "wins": 0,
+        "losses": 1
+      },
+      "2L2": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Ranger": {
+      "2L3": {
+        "wins": 0,
+        "losses": 2
+      },
+      "4L4": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Nightshade": {
+      "2L7": {
+        "wins": 0,
+        "losses": 1
+      },
+      "6L8": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Blademaster": {
+      "3L6": {
+        "wins": 0,
+        "losses": 1
+      },
+      "9L0": {
+        "wins": 1,
+        "losses": 0
+      },
+      "10L2": {
+        "wins": 1,
+        "losses": 0
+      },
+      "3L4": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Bard": {
+      "3L1": {
+        "wins": 0,
+        "losses": 1
+      },
+      "5L5": {
+        "wins": 1,
+        "losses": 0
+      },
+      "6L9": {
+        "wins": 1,
+        "losses": 0
+      },
+      "6L2": {
+        "wins": 1,
+        "losses": 0
+      },
+      "9L0": {
+        "wins": 1,
+        "losses": 0
+      },
+      "6L3": {
+        "wins": 1,
+        "losses": 0
+      },
+      "4L3": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Valewalker": {
+      "4L8": {
+        "wins": 0,
+        "losses": 1
+      },
+      "7L7": {
+        "wins": 1,
+        "losses": 0
+      },
+      "2L0": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Druid": {
+      "7L6": {
+        "wins": 1,
+        "losses": 0
+      },
+      "5L9": {
+        "wins": 1,
+        "losses": 0
+      },
+      "10L1": {
+        "wins": 1,
+        "losses": 0
+      },
+      "2L3": {
+        "wins": 0,
+        "losses": 1
+      },
+      "3L3": {
+        "wins": 0,
+        "losses": 1
+      },
+      "2L8": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Enchanter": {
+      "7L3": {
+        "wins": 1,
+        "losses": 0
+      },
+      "6L7": {
+        "wins": 1,
+        "losses": 0
+      },
+      "2L9": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Eldritch": {
+      "7L5": {
+        "wins": 1,
+        "losses": 0
+      },
+      "8L3": {
+        "wins": 1,
+        "losses": 0
+      },
+      "2L4": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Mentalist": {
+      "11L0": {
+        "wins": 1,
+        "losses": 0
+      },
+      "3L4": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Warden": {
+      "5L0": {
+        "wins": 1,
+        "losses": 0
+      },
+      "8L4": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Thane": {
+      "4L4": {
+        "wins": 0,
+        "losses": 1
+      },
+      "4L5": {
+        "wins": 0,
+        "losses": 1
+      },
+      "3L4": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Skald": {
+      "10L3": {
+        "wins": 0,
+        "losses": 1
+      },
+      "3L2": {
+        "wins": 0,
+        "losses": 1
+      },
+      "5L9": {
+        "wins": 0,
+        "losses": 1
+      },
+      "5L1": {
+        "wins": 1,
+        "losses": 0
+      },
+      "2L9": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Warrior": {
+      "5L6": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Hero": {
+      "9L2": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Cabalist": {
+      "4L2": {
+        "wins": 0,
+        "losses": 2
+      },
+      "6L1": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Sorcerer": {
+      "4L1": {
+        "wins": 0,
+        "losses": 1
+      },
+      "6L3": {
+        "wins": 0,
+        "losses": 1
+      },
+      "7L7": {
+        "wins": 1,
+        "losses": 0
+      },
+      "5L9": {
+        "wins": 0,
+        "losses": 1
+      },
+      "10L9": {
+        "wins": 0,
+        "losses": 1
+      },
+      "3L1": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Heretic": {
+      "2L6": {
+        "wins": 0,
+        "losses": 1
+      },
+      "4L2": {
+        "wins": 0,
+        "losses": 1
+      },
+      "4L7": {
+        "wins": 0,
+        "losses": 1
+      },
+      "3L7": {
+        "wins": 0,
+        "losses": 1
+      },
+      "6L2": {
+        "wins": 0,
+        "losses": 1
+      },
+      "5L2": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Friar": {
+      "5L7": {
+        "wins": 1,
+        "losses": 0
+      },
+      "4L8": {
+        "wins": 1,
+        "losses": 0
+      },
+      "7L7": {
+        "wins": 2,
+        "losses": 0
+      },
+      "5L8": {
+        "wins": 0,
+        "losses": 2
+      }
+    },
+    "Occultist": {
+      "5L2": {
+        "wins": 1,
+        "losses": 0
+      },
+      "4L1": {
+        "wins": 1,
+        "losses": 0
+      },
+      "6L2": {
+        "wins": 1,
+        "losses": 0
+      },
+      "5L3": {
+        "wins": 2,
+        "losses": 0
+      }
+    },
+    "Armsman": {
+      "6L1": {
+        "wins": 1,
+        "losses": 0
+      },
+      "2L6": {
+        "wins": 0,
+        "losses": 1
+      },
+      "3L8": {
+        "wins": 0,
+        "losses": 2
+      }
+    },
+    "Theurgist": {
+      "9L5": {
+        "wins": 1,
+        "losses": 0
+      },
+      "5L1": {
+        "wins": 0,
+        "losses": 2
+      }
+    },
+    "Necromancer": {
+      "9L1": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Savage": {
+      "6L4": {
+        "wins": 0,
+        "losses": 1
+      },
+      "5L9": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Runemaster": {
+      "7L3": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Shaman": {
+      "8L3": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Bonedancer": {
+      "2L2": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Paladin": {
+      "6L4": {
+        "wins": 0,
+        "losses": 1
+      },
+      "8L3": {
+        "wins": 2,
+        "losses": 0
+      },
+      "2L9": {
+        "wins": 0,
+        "losses": 2
+      }
+    },
+    "Wizard": {
+      "2L9": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Bainshee": {
+      "8L4": {
+        "wins": 1,
+        "losses": 0
+      },
+      "2L0": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Vampiir": {
+      "2L0": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Animist": {
+      "4L0": {
+        "wins": 0,
+        "losses": 1
+      }
+    }
+  },
+  "2025-09-07": {
+    "Skald": {
+      "3L1": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Healer": {
+      "3L6": {
+        "wins": 1,
+        "losses": 0
+      },
+      "4L0": {
+        "wins": 1,
+        "losses": 0
+      },
+      "3L5": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Warrior": {
+      "2L9": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Berserker": {
+      "3L8": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Valkyrie": {
+      "3L4": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "Bainshee": {
+      "8L8": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Valewalker": {
+      "4L1": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Druid": {
+      "10L9": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Bard": {
+      "8L8": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Hero": {
+      "8L5": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "Eldritch": {
+      "6L3": {
+        "wins": 0,
+        "losses": 1
+      }
+    }
+  }
+}
