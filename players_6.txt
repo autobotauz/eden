@@ -1,20 +1,9 @@
 
+Nwettess
+Hazuza
 Corvette
-Cornelio
 Azuza
 Haruka
-Nwettess
-Tuvastheuterre
-Fastbrick
-Speedr
-Kenpaskald
-Ilziotonino
-Loig
-Bredoxox
-Jayquon
-Invincibility
-Gallusa
-Hazuza
 Princemelaj
 Satsuki
 Myungjak
@@ -31,6 +20,8 @@ Dreamb
 Xerxyia
 Maliick
 Docks
+Cornelio
+Tuvastheuterre
 Dibidi
 Zarudinachamp
 Streakvale
@@ -44,6 +35,13 @@ Feraa
 Afainer
 Giovaler
 Unode
+Speedr
+Fastbrick
+Kenpaskald
+Ilziotonino
+Loig
+Bredoxox
+Jayquon
 Rudys
 Hemorrhage
 Warhog
@@ -51,6 +49,8 @@ Sciamenna
 Poisonpete
 Tonbot
 Rashira
+Invincibility
+Gallusa
 Tonyg
 Raifz
 Nomination
