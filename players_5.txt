@@ -21,8 +21,8 @@ Unode
 Nathy
 Daddibel
 Mercurochromee
-Runilxox
 Giovaler
+Runilxox
 Dawo
 Tinos
 Xaala
@@ -33,7 +33,6 @@ Handdzz
 Pohakuz
 Dwonk
 Tralalala
-Tonoz
 Ashane
 Speddwaldi
 Tilawia
@@ -42,6 +41,7 @@ Fastbrick
 Koboldlnc
 Elnoria
 Songmaiden
+Tonoz
 Melodies
 Metalstorm
 Itreallydobelike
@@ -66,6 +66,7 @@ Jimd
 Neveht
 Jeyquon
 Teddypettingham
+Giovaubd
 Kaen
 Sensation
 Marra
@@ -157,8 +158,8 @@ Silica
 Torlick
 Sceau
 Astronomic
-Kombbo
 Amkelavi
+Kombbo
 Tuh
 Toubram
 Mirajz
@@ -203,6 +204,7 @@ Eldebuff
 Makrele
 Serou
 Colbolt
+Diuo
 Sairlock
 Maceey
 Niski
@@ -254,8 +256,8 @@ Ztj
 Unsleep
 Argheim
 Brigittefardo
-Wariyz
 Dansarann
+Wariyz
 Zodie
 Leddy
 Tresca
@@ -303,8 +305,8 @@ Pebbels
 Ndessu
 Tusker
 Agathe
-Warhog
 Hemorrhage
+Warhog
 Chiizy
 Occultoast
 Ghoulform
