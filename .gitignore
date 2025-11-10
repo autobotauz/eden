@@ -1,5 +1,10 @@
 runIt.sh
 fights**
 fightData**
-players**
+players_*.txt
 cookies.json
+chromedriver.exe
+cookieGetter.py
+scripts/**
+cookies_from_redirect.json
+cookies_captured.json

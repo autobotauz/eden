@@ -52,7 +52,6 @@ Tenabrae
 Antiromantik
 Lexing
 Brejcha
-Fairuza
 Elegi
 Harroww
 Sarcas
@@ -72,8 +71,8 @@ Mcdeadlift
 Mephelio
 Mizzoz
 Blaninsk
-Chamberz
 Cookeo
+Chamberz
 Ferpi
 Jessika
 Lillepigen
@@ -103,10 +102,10 @@ Littlecool
 Ally
 Sysy
 Ownann
+Sticknsprintplz
 Mary
 Poledancey
 Nightthrasher
-Sticknsprintplz
 Reges
 Broutous
 Kaxou
@@ -187,7 +186,6 @@ Ravenatic
 Piep
 Unholy
 Pontiuz
-Theoles
 Hinonim
 Atmmachine
 Breakerofmezz
@@ -337,7 +335,6 @@ Smokealot
 Euphoriaa
 Carcasshunter
 Foryoum
-Cerou
 Niski
 Pampita
 Astart
@@ -351,7 +348,6 @@ Vygs
 Filba
 Sublim
 Purr
-Maudaa
 Sriih
 Doublehealz
 Discocleri
@@ -384,8 +380,8 @@ Zarg
 Chezalist
 Zairun
 Burrich
-Chantri
 Ioioi
+Blutzucker
 Mealsonwheels
 Tritonx
 Daburg
@@ -403,14 +399,13 @@ Fastafsin
 Soo
 Yurhia
 Ptipinqq
+Kakao
 Teltta
 Porcamadonna
 Fretless
-Kakao
 Sysi
 Aline
 Porcama
-Blutzucker
 Goneltinaa
 Sessine
 Kript
