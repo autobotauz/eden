@@ -30,6 +30,7 @@ Salva
 Kacknoob
 Bjaadihero
 Headshotdead
+Billyrayvalintine
 Winteriscomingg
 Ililpa
 Valendra
@@ -121,6 +122,7 @@ Volkswagenwannabe
 Nothuge
 Snurra
 Sweater
+Rampage
 Skyrizi
 Pingviini
 Abeade
@@ -599,6 +601,7 @@ Zenon
 Cornelio
 Tebrixx
 Nice
+Amifedebm
 Ssullja
 Hai
 Lhar
@@ -739,6 +742,7 @@ Toastychant
 Izie
 Phadebuff
 Stun
+Argentavis
 Lhore
 Mentdeez
 Thenameistoes
@@ -767,6 +771,7 @@ Menairy
 Carniixx
 San
 Lysie
+Aazepika
 Vallon
 Thaelire
 Tadgar
@@ -922,6 +927,8 @@ Hebberth
 Eskula
 Xaala
 Grullia
+Gueridon
+Cestplacebo
 Battlebuddy
 Bianna
 Zara
@@ -996,6 +1003,7 @@ Anahera
 Sigwueid
 Chiikyrie
 Jein
+Naikyrie
 Srikandi
 Tzooly
 Owpette
@@ -1082,6 +1090,7 @@ Mearts
 Kowal
 Speedysspeedy
 Valmir
+Fessik
 Supernina
 Svorl
 Reliable
@@ -1221,13 +1230,13 @@ Zoreil
 Rosatys
 Boogersugar
 Claudiaroth
-Gobchang
 Truster
 Teq
 Zker
 Loig
 Morfuinn
 Trollmingo
+Gobchang
 Tengu
 Lilhou
 Chowderz
@@ -1281,6 +1290,7 @@ Samer
 Hanzzlock
 Storekugler
 Laren
+Dethklok
 Teruwa
 Pupsenase
 Turvanor
@@ -1378,6 +1388,7 @@ Valar
 Dolbis
 Meegsiy
 Kebabilingas
+Moonscream
 Setira
 Cowtipper
 Screem
@@ -1407,6 +1418,8 @@ Angborn
 Shadowhunts
 Ghoste
 Pisurta
+Ananya
+Caccia
 Runarin
 Gobgordan
 Nooney
