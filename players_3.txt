@@ -89,7 +89,6 @@ Warmdischarge
 Khaoshi
 Ramboris
 Tommbertos
-Yuke
 Baria
 Clussy
 Bigbrother
@@ -174,7 +173,6 @@ Trafalgar
 Kards
 Intension
 Sloothh
-Xaala
 Docblus
 Cmfz
 Ambergris
@@ -205,6 +203,7 @@ Debts
 Malikethh
 Jael
 Streakheal
+Daddibel
 Speedpolice
 Teezy
 Docblu
@@ -217,7 +216,6 @@ Mickmuffin
 Fishlure
 December
 Fiftyfifty
-Daddibel
 Drumheal
 Hasousa
 Miimi
@@ -412,6 +410,7 @@ Koboldlnc
 Kennyo
 Hithard
 Tonoz
+Stary
 Joskald
 Adwarfwithboobs
 Sol
@@ -421,7 +420,6 @@ Jerun
 Rushinn
 Ociedeus
 Cheviis
-Stary
 Diiz
 Natac
 Giovausk
