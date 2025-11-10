@@ -153,6 +153,7 @@ Eyh
 Footdelivery
 Throkgar
 Razallon
+Socar
 Zibbezabbe
 Bottes
 Scooter
@@ -197,6 +198,7 @@ Whiteout
 Yeschef
 Godgordan
 Leonphelps
+Mistpiercer
 Kazashi
 Drelinia
 Crafttrokks
@@ -231,6 +233,7 @@ Sloothy
 Arious
 Kyr
 Zarri
+Gradioz
 Snaavvie
 Belisranger
 Shanta

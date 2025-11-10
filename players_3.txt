@@ -535,7 +535,6 @@ Saevili
 Felicis
 Keoo
 Davr
-Rakija
 Rambard
 Dun
 Phaeris
@@ -550,6 +549,7 @@ Zmash
 Heythatsmybike
 Sigournie
 Rachida
+Rakija
 Kakao
 Boxyy
 Pikabo
@@ -771,6 +771,7 @@ Caersiena
 Rocktopus
 Ntrolol
 Patcute
+Shyvalahuntress
 Mainoo
 Myriki
 Meku
@@ -1103,9 +1104,9 @@ Burrich
 Ocian
 Hapitrois
 Quigonn
-Ceruu
 Rhewn
 Bigplayz
+Ceruu
 Exhost
 Nooney
 Durgi
@@ -1150,11 +1151,11 @@ Hisstory
 Indiewak
 Pinkeen
 Salva
-Niski
 Aengus
 Blumpus
 Notjuuzou
 Kazirah
+Niski
 Xabrast
 Holispirit
 Naisyy
